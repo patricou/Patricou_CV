@@ -1,0 +1,44 @@
+server:
+  context-path: /business
+  port: 8002
+  #disable default white label page in case of error
+  error.whitelabel.enabled: false
+#SSL
+ # ssl:
+ #   key-store: tomcat.keystore
+ #   key-store-password: xxxxx
+ #  keyAlias: tomcat
+# Mail server parameters
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 25
+    username: patrickdeschampscv@gmail.com
+    password: xxxxxxxxxx
+    defaultEncoding: UTF-8
+    properties:
+      mail:
+        smtp:
+          auth: true
+          socketFactory:
+            port: 465
+            class: javax.net.ssl.SSLSocketFactory
+            fallback: false
+# Encoding UTF-8
+# mandatory-file-encoding: UTF-8
+  http:
+    encoding:
+      charset: UTF-8
+      enabled: true
+      force: true
+#params appli
+appli:
+  sendailTo: deschamps.pat@gmail.com
+  sendailFrom: deschamps.pat@gmail.com
+  myServerIP: '0:0:0:0:0:0:0:1'
+#logging level
+logging:
+  level:
+      org.springframework.web: ERROR
+      guru.springframework.controllers: ERROR
+      org.hibernate: ERROR
