@@ -259,7 +259,7 @@
                                                 <small class="myjob">IT Consultant, </small>
                                                 <div class="feature-desc">
                                                     <p>I m fully passionate with development, and I work as consultant for short our long missions.</p>
-                                                    <p>My strong are my knowledge in last technologies ( Certified Java and Spring framework ), and reinforced with my long experience asSenior Technical Analyst at HSBC Private Bank, I propose you to share
+                                                    <p>My strong are my knowledge in last technologies ( Certified Java and Spring framework ), and reinforced with my long experience as Senior Technical Analyst at HSBC Private Bank, I propose you to share
                                                         them safely to bring the best solutions for your enterprise.</p>
                                                     <p>... and my most exciting thing to do is to create...</p>
                                                 </div>
@@ -343,11 +343,11 @@
                                         </div>
 
                                         <div class="col-md-6">
-                                            <p>My main acitivity is the IT development.</p>
-                                            <p>As full Stack developper, I develop with <b>Java</b> and the Framework <b>Spring</b> for server side ( I am Java Certified and I have all Spring Certifications ). <br> For the client side, I develop with HTML5,
-                                                CSS3, BootStrap, <b>Typescript/Javascript</b> and <b>Angular2</b>.</p>
-                                            <p>I'm open to act as an <b>independent, free lancer</b> or as an<b> employee</b>.</p>
-                                            <p>My precedent domain of actitivities was in Private Banking area, but I'm ready to work in all type of Enterprise.</p>
+                                            <p>My main activity is the IT software development.</p>
+                                            <p>As full Stack developer,</br> I develop with <b>Java</b> and the Framework <b>Spring</b> for server side ( I am Java Certified and I have all Spring Certifications ). <br> For the client side, I develop with HTML5,
+                                                CSS3, BootStrap, <b>Typescript/JavaScript</b> and <b>Angular2</b>.</p>
+                                            <p>I'm open to act as an <b>independent, free lancer, IT consultant</b> or as an<b> employee</b>.</p>
+                                            <p>My precedent professional branch was in Private Banking area, but I'm ready to work in all type of Enterprise.</p>
                                             <p>Note : I have also acted as Product Owner, Support Analyst and Business Analyst.</P>
 
                                             <!-- <a href="#values" class="btn btn_service_intro">My Values</a> -->
@@ -1657,7 +1657,30 @@
                                 <!-- #portfolioslist -->
                                 <div class="grid" id="portfoliolist">
 
-
+                                    <div class="view view-first portfolio AD BA WA" data-cat="AD BA WA">
+                                        <img src="images/portfolio/sports.png" alt="img01">
+                                        <div class="mask" style="background-color: rgba(183, 181, 168, 0.7);">
+                                            <h4>Sports Events Organizer</h4>
+                                            <p><span class="cat-portfolio">Front-End, Back-End, Business Analyse</span></p>
+                                            <div class="portf_detail">
+                                                <a href="#" class="info external open_port_detail" data-id="13">
+                                                    <i class="fa fa-link"></i>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="view view-first portfolio AD BA" data-cat="AD BA">
+                                        <img src="images/portfolio/ecommerce.png" alt="img09">
+                                        <div class="mask" style="background-color: rgba(183, 181, 168, 0.7);">
+                                            <h4>eCommerce project</h4>
+                                            <p><span class="cat-portfolio">Application Developer, Business Analyst</span></p>
+                                            <div class="portf_detail">
+                                                <a href="#" class="info external open_port_detail" data-id="8">
+                                                    <i class="fa fa-link"></i>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
                                     <div class="view view-first portfolio AD BA WA" data-cat="AD BA WA">
                                         <img src="images/portfolio/atelier-recommendation.png" alt="img01">
                                         <div class="mask" style="background-color: rgba(255,246,143, 0.7);">
@@ -1670,7 +1693,6 @@
                                             </div>
                                         </div>
                                     </div>
-
                                     <div class="view view-first portfolio PM" data-cat="PM">
                                         <img src="images/portfolio/edms.png" alt="img07">
                                         <div class="mask" style="background-color: rgba(173, 0, 0, 0.7);">
@@ -1757,20 +1779,6 @@
                                         </div>
                                     </div>
 
-                                    <div class="view view-first portfolio AD BA" data-cat="AD BA">
-                                        <img src="images/portfolio/ecommerce.png" alt="img09">
-                                        <div class="mask" style="background-color: rgba(183, 181, 168, 0.7);">
-                                            <h4>eCommerce project</h4>
-                                            <p><span class="cat-portfolio">Application Developer, Business Analyst</span></p>
-                                            <div class="portf_detail">
-                                                <a href="#" class="info external open_port_detail" data-id="8">
-                                                    <i class="fa fa-link"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-
                                     <div class="view view-first portfolio photography AD BA" data-cat="AD BA">
                                         <img src="images/portfolio/data-migration.png" alt="img10">
                                         <div class="mask" style="background-color: rgba(92, 113, 195, 0.7);">
@@ -1827,23 +1835,6 @@
                                             </div>
                                         </div>
                                     </div>
-
-                                    <div class="view view-first portfolio AD BA WA" data-cat="AD BA WA">
-                                        <img src="images/portfolio/sports.png" alt="img01">
-                                        <div class="mask" style="background-color: rgba(183, 181, 168, 0.7);">
-                                            <h4>Sports Events Organizer</h4>
-                                            <p><span class="cat-portfolio">Front-End, Back-End, Business Analyse</span></p>
-                                            <div class="portf_detail">
-                                                <a href="#" class="info external open_port_detail" data-id="13">
-                                                    <i class="fa fa-link"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-
-
-
                                 </div>
                                 <!-- /portfoliolist -->
 
@@ -1923,7 +1914,7 @@
 
                                 <div class="portfolio-nav">
                                     <ul>
-                                        <li class="prev-link hide_prev"><a href="#" data-post="0" rel="Prev" title="prev"><i
+                                        <li class="prev-link"><a href="#" data-post="13" rel="Prev" title="prev"><i
                                         class="fa fa-angle-left icon-single"></i></a></li>
                                         <li class="all-items"><a href="#" title="All"><i class="fa fa-th-large icon-single"></i></a>
                                         </li>
@@ -2340,7 +2331,7 @@
                                         class="fa fa-angle-left icon-single"></i></a></li>
                                         <li class="all-items"><a href="#" title="All"><i class="fa fa-th-large icon-single"></i></a>
                                         </li>
-                                        <li class="next-link"><a href="#" data-post="8" rel="Next" title="next"><i
+                                        <li class="next-link"><a href="#" data-post="9" rel="Next" title="next"><i
                                         class="fa fa-angle-right icon-single"></i></a></li>
                                     </ul>
                                 </div>
@@ -2404,11 +2395,11 @@
 
                                 <div class="portfolio-nav">
                                     <ul>
-                                        <li class="prev-link"><a href="#" data-post="7" rel="Prev" title="prev"><i
+                                        <li class="prev-link"><a href="#" data-post="13" rel="Prev" title="prev"><i
                                         class="fa fa-angle-left icon-single"></i></a></li>
                                         <li class="all-items"><a href="#" title="All"><i class="fa fa-th-large icon-single"></i></a>
                                         </li>
-                                        <li class="next-link"><a href="#" data-post="9" rel="Next" title="next"><i
+                                        <li class="next-link"><a href="#" data-post="1" rel="Next" title="next"><i
                                         class="fa fa-angle-right icon-single"></i></a></li>
                                     </ul>
                                 </div>
@@ -2471,7 +2462,7 @@
 
                                 <div class="portfolio-nav">
                                     <ul>
-                                        <li class="prev-link"><a href="#" data-post="8" rel="Prev" title="prev"><i
+                                        <li class="prev-link"><a href="#" data-post="7" rel="Prev" title="prev"><i
                                         class="fa fa-angle-left icon-single"></i></a></li>
                                         <li class="all-items"><a href="#" title="All"><i class="fa fa-th-large icon-single"></i></a>
                                         </li>
@@ -2707,8 +2698,9 @@
                                         class="fa fa-angle-left icon-single"></i></a></li>
                                         <li class="all-items"><a href="#" title="All"><i class="fa fa-th-large icon-single"></i></a>
                                         </li>
-                                        <li class="next-link"><a href="#" data-post="13" rel="Next" title="next"><i
-                                        class="fa fa-angle-right icon-single"></i></a></li </ul>
+                                        <li class="next-link hide_next"><a href="#" data-post="13" rel="Next" title="next"><i
+                                        class="fa fa-angle-right icon-single"></i></a></li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
@@ -2777,33 +2769,24 @@
                                     <h2 class="section_title">Project Details</h2>
                                     <div class="sep2"></div>
                                 </div>
-
                                 <div><strong>Date : </strong><span class="project-terms">March 2017 - June 2017</span></div>
                                 <div><strong>Client : </strong><span class="project-terms">Everybody</span></div>
                                 <div><strong>Category : </strong><a href="#">Business Analyst, Product Manager, Developer</a>
                                 </div>
                                 <div><strong>Skills Used : </strong><a href="#">Developper ( Java/Sprint - TypeScript/Angular 2 )</a></div>
-
-
                                 <hr>
-
                                 <div class="portfolio-nav">
                                     <ul>
-                                        <li class="prev-link"><a href="#" data-post="12" rel="Prev" title="prev"><i
+                                        <li class="prev-link hide_prev"><a href="#" data-post="12" rel="Prev" title="prev"><i
                                         class="fa fa-angle-left icon-single"></i></a></li>
                                         <li class="all-items"><a href="#" title="All"><i class="fa fa-th-large icon-single"></i></a>
                                         </li>
-                                        <li class="next-link hide_next"><a href="#"><i
-                                        class="fa fa-angle-right icon-single"></i></a></li>
-
+                                        <li class="next-link"><a href="#" data-post="8" rel="Next" title="next"><i
+                                                class="fa fa-angle-right icon-single"></i></a></li>
                                     </ul>
                                 </div>
-
                             </div>
-
                         </div>
-
-
                     </div>
                     <!-- End post 13 -->
 

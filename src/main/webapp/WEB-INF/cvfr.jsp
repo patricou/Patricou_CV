@@ -792,7 +792,7 @@
                                             <div class="pricing">
                                                 <div class="pricing-head">
                                                     <h3>Entreprises <span>Pour de longues ou courtes missions</span></h3>
-                                                    <h4><i>{{money}}</i>{{priceByDay}}<i>.00</i> <span>Per Day</span></h4>
+                                                    <h4><i>{{money}}</i>{{priceByDay}}<i>.00</i> <span>Par jour</span></h4>
                                                 </div>
                                                 <ul class="pricing-content list-unstyled">
                                                     <li><i class="fa fa-building-o"></i>Documentations Techniques.</li>
@@ -836,7 +836,7 @@
                                             <div class="pricing">
                                                 <div class="pricing-head">
                                                     <h3>Pour les personnes, commerces ou petites entreprises<span></h3>
-                                                    <h4><i>{{money}}</i>{{priceByHour}}<i>.00</i><span>Per Hour</span></h4>
+                                                    <h4><i>{{money}}</i>{{priceByHour}}<i>.00</i><span>Par heure</span></h4>
                                                 </div>
                                                 <ul class="pricing-content list-unstyled">
                                                     <li><i class="fa fa-sitemap"></i> Site Web personnel.</li>
@@ -1630,7 +1630,30 @@
                                 <!-- #portfolioslist -->
                                 <div class="grid" id="portfoliolist">
 
-
+                                    <div class="view view-first portfolio AD BA WA" data-cat="AD BA WA">
+                                        <img src="images/portfolio/sports.png" alt="img01">
+                                        <div class="mask" style="background-color: rgba(183, 181, 168, 0.7);">
+                                            <h4>Organiseur d'événements Sportifs</h4>
+                                            <p><span class="cat-portfolio">Front-End, Back-End, Business Analyse</span></p>
+                                            <div class="portf_detail">
+                                                <a href="#" class="info external open_port_detail" data-id="13">
+                                                    <i class="fa fa-link"></i>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="view view-first portfolio AD BA" data-cat="AD BA">
+                                        <img src="images/portfolio/ecommerce.png" alt="img09">
+                                        <div class="mask" style="background-color: rgba(183, 181, 168, 0.7);">
+                                            <h4>Projet eCommerce</h4>
+                                            <p><span class="cat-portfolio">Application Developer, Business Analyst</span></p>
+                                            <div class="portf_detail">
+                                                <a href="#" class="info external open_port_detail" data-id="8">
+                                                    <i class="fa fa-link"></i>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
                                     <div class="view view-first portfolio AD BA WA" data-cat="AD BA WA">
                                         <img src="images/portfolio/atelier-recommendation.png" alt="img01">
                                         <div class="mask" style="background-color: rgba(255,246,143, 0.7);">
@@ -1643,7 +1666,6 @@
                                             </div>
                                         </div>
                                     </div>
-
                                     <div class="view view-first portfolio PM" data-cat="PM">
                                         <img src="images/portfolio/edms.png" alt="img07">
                                         <div class="mask" style="background-color: rgba(173, 0, 0, 0.7);">
@@ -1727,18 +1749,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="view view-first portfolio AD BA" data-cat="AD BA">
-                                        <img src="images/portfolio/ecommerce.png" alt="img09">
-                                        <div class="mask" style="background-color: rgba(183, 181, 168, 0.7);">
-                                            <h4>Projet eCommerce</h4>
-                                            <p><span class="cat-portfolio">Application Developer, Business Analyst</span></p>
-                                            <div class="portf_detail">
-                                                <a href="#" class="info external open_port_detail" data-id="8">
-                                                    <i class="fa fa-link"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
                                     <div class="view view-first portfolio photography AD BA" data-cat="AD BA">
                                         <img src="images/portfolio/data-migration.png" alt="img10">
                                         <div class="mask" style="background-color: rgba(92, 113, 195, 0.7);">
@@ -1785,18 +1795,6 @@
                                             <div class="portf_detail">
                                                 <a href="https://youtu.be/oFtL6vqE_Bw" data-gal="portfolio" class="info external"><i class="fa fa-play"></i></a>
                                                 <a href="#" class="info external open_port_detail" data-id="12">
-                                                    <i class="fa fa-link"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="view view-first portfolio AD BA WA" data-cat="AD BA WA">
-                                        <img src="images/portfolio/sports.png" alt="img01">
-                                        <div class="mask" style="background-color: rgba(183, 181, 168, 0.7);">
-                                            <h4>Organiseur d'événements Sportifs</h4>
-                                            <p><span class="cat-portfolio">Front-End, Back-End, Business Analyse</span></p>
-                                            <div class="portf_detail">
-                                                <a href="#" class="info external open_port_detail" data-id="13">
                                                     <i class="fa fa-link"></i>
                                                 </a>
                                             </div>
@@ -1878,12 +1876,12 @@
 
                                 <div class="portfolio-nav">
                                     <ul>
-                                        <li class="prev-link hide_prev"><a href="#" data-post="0" rel="Prev" title="prev"><i
-                                        class="fa fa-angle-left icon-single"></i></a></li>
+                                        <li class="prev-link"><a href="#" data-post="13" rel="Prev" title="prev"><i
+                                                class="fa fa-angle-left icon-single"></i></a></li>
                                         <li class="all-items"><a href="#" title="All"><i class="fa fa-th-large icon-single"></i></a>
                                         </li>
                                         <li class="next-link"><a href="#" data-post="2" rel="Next" title="next"><i
-                                        class="fa fa-angle-right icon-single"></i></a></li>
+                                                class="fa fa-angle-right icon-single"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -2270,7 +2268,7 @@
                                         class="fa fa-angle-left icon-single"></i></a></li>
                                         <li class="all-items"><a href="#" title="All"><i class="fa fa-th-large icon-single"></i></a>
                                         </li>
-                                        <li class="next-link"><a href="#" data-post="8" rel="Next" title="next"><i
+                                        <li class="next-link"><a href="#" data-post="9" rel="Next" title="next"><i
                                         class="fa fa-angle-right icon-single"></i></a></li>
                                     </ul>
                                 </div>
@@ -2330,11 +2328,11 @@
 
                                 <div class="portfolio-nav">
                                     <ul>
-                                        <li class="prev-link"><a href="#" data-post="7" rel="Prev" title="prev"><i
+                                        <li class="prev-link"><a href="#" data-post="13" rel="Prev" title="prev"><i
                                         class="fa fa-angle-left icon-single"></i></a></li>
                                         <li class="all-items"><a href="#" title="All"><i class="fa fa-th-large icon-single"></i></a>
                                         </li>
-                                        <li class="next-link"><a href="#" data-post="9" rel="Next" title="next"><i
+                                        <li class="next-link"><a href="#" data-post="1" rel="Next" title="next"><i
                                         class="fa fa-angle-right icon-single"></i></a></li>
                                     </ul>
                                 </div>
@@ -2388,7 +2386,7 @@
                                 <hr>
                                 <div class="portfolio-nav">
                                     <ul>
-                                        <li class="prev-link"><a href="#" data-post="8" rel="Prev" title="prev"><i
+                                        <li class="prev-link"><a href="#" data-post="7" rel="Prev" title="prev"><i
                                         class="fa fa-angle-left icon-single"></i></a></li>
                                         <li class="all-items"><a href="#" title="All"><i class="fa fa-th-large icon-single"></i></a>
                                         </li>
@@ -2607,11 +2605,12 @@
                                 <div class="portfolio-nav">
                                     <ul>
                                         <li class="prev-link"><a href="#" data-post="11" rel="Prev" title="prev"><i
-                                        class="fa fa-angle-left icon-single"></i></a></li>
+                                                class="fa fa-angle-left icon-single"></i></a></li>
                                         <li class="all-items"><a href="#" title="All"><i class="fa fa-th-large icon-single"></i></a>
                                         </li>
-                                        <li class="next-link"><a href="#" data-post="13" rel="Next" title="next"><i
-                                        class="fa fa-angle-right icon-single"></i></a></li </ul>
+                                        <li class="next-link hide_next"><a href="#" data-post="13" rel="Next" title="next"><i
+                                                class="fa fa-angle-right icon-single"></i></a></li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
@@ -2692,13 +2691,12 @@
 
                                 <div class="portfolio-nav">
                                     <ul>
-                                        <li class="prev-link"><a href="#" data-post="12" rel="Prev" title="prev"><i
-                                        class="fa fa-angle-left icon-single"></i></a></li>
+                                        <li class="prev-link hide_prev"><a href="#" data-post="12" rel="Prev" title="prev"><i
+                                                class="fa fa-angle-left icon-single"></i></a></li>
                                         <li class="all-items"><a href="#" title="All"><i class="fa fa-th-large icon-single"></i></a>
                                         </li>
-                                        <li class="next-link hide_next"><a href="#"><i
-                                        class="fa fa-angle-right icon-single"></i></a></li>
-
+                                        <li class="next-link"><a href="#" data-post="8" rel="Next" title="next"><i
+                                                class="fa fa-angle-right icon-single"></i></a></li>
                                     </ul>
                                 </div>
 
