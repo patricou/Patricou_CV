@@ -5,13 +5,13 @@
 <!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
 
 <head>
-    <title>Java and Spring developer, certified Oracle and Pivotal, full-stack, back-end, front-end, Geneve, Geneva.</title>
+    <title>Patrick DESCHAMPS - Développeur Full Stack</title>
     <!-- Basic Page Needs -->
     <meta charset="UTF-8"/>
-    <meta name="generator" content="Patrik DESCHAMPS">
-    <META NAME="description" CONTENT="Patrick Deschamps, Java and Spring Specialist, certified Oracle and Pivotal, developer, Geneva, full-stack, back-end, front-end">
-    <META NAME="keywords" CONTENT="Java, Spring, Geneve, Geneva, genève, developer, developpeur, web, application, applications, programing, programming, specialist,angularjs, spring boot, mvc, rest, javascript, angularjs, jquery, bootstrap">
-    <META NAME="robots" CONTENT="all">
+    <META NAME="description" CONTENT="Développeur Full Stack, Front End, Back End, web site, Java, Spring, Typescript, JavaScript, Angular 2, HTTP, REST, HTML, CSS">
+    <META NAME="keywords" CONTENT="Java, Spring, Typescript, JavaScript, Angular, HTML5, CSS, Bootstrap">
+    <META NAME="robots" CONTENT="index,follow">
+    <meta name="googlebot" content="all" />
     <META NAME="Content-language" CONTENT="english">
     <META NAME="Author" CONTENT="Patrick DESCHAMPS">
     <META HTTP-EQUIV="Reply-to" CONTENT="deschamps.pat@gmail.com">

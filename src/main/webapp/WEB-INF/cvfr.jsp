@@ -166,7 +166,7 @@
         </div> -->
                 <!-- End #header_social_ul -->
                 <div class="text-center">
-                    <a class="link_menu" href="cven" role="button">En Anglais</a>
+                    <a class="link_menu" href="cven" role="button"><img src="images/flags/english.png"/></a>
                 </div>
                 <!-- .copyright -->
                 <div class="copyright">
@@ -323,7 +323,7 @@
                                 <div class="col-lg-11 section_general">
 
                                     <header class="section-header">
-                                        <h3 class="section-title">Services - Que puis-je faire pour VOUS</h3>
+                                        <h3 class="section-title">Services - ce que je peux faire pour VOUS :</h3>
                                         <p>Services Innovants & Créatifs</p>
                                         <div class="border-divider"></div>
                                     </header>
@@ -1876,7 +1876,7 @@
 
                                 <div class="portfolio-nav">
                                     <ul>
-                                        <li class="prev-link"><a href="#" data-post="13" rel="Prev" title="prev"><i
+                                        <li class="prev-link"><a href="#" data-post="8" rel="Prev" title="prev"><i
                                                 class="fa fa-angle-left icon-single"></i></a></li>
                                         <li class="all-items"><a href="#" title="All"><i class="fa fa-th-large icon-single"></i></a>
                                         </li>

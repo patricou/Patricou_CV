@@ -166,7 +166,7 @@
         </div> -->
                 <!-- End #header_social_ul -->
                 <div class="text-center">
-                    <a class="link_menu" href="cvfr" role="button">In French</a>
+                    <a class="link_menu" href="cvfr" role="button"><img src="images/flags/france.png"/></a>
                 </div>
 
                 <!-- .copyright -->
@@ -1914,7 +1914,7 @@
 
                                 <div class="portfolio-nav">
                                     <ul>
-                                        <li class="prev-link"><a href="#" data-post="13" rel="Prev" title="prev"><i
+                                        <li class="prev-link"><a href="#" data-post="8" rel="Prev" title="prev"><i
                                         class="fa fa-angle-left icon-single"></i></a></li>
                                         <li class="all-items"><a href="#" title="All"><i class="fa fa-th-large icon-single"></i></a>
                                         </li>
