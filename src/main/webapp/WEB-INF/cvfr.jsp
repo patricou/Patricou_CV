@@ -260,7 +260,7 @@
                                                     <p>Passionné d'informatique, j'exerce professionnellement en tant que consultant en développement pour de longues ou courtes missions.</p>
                                                     <p>Mes forces sont dans mes connaissances des dernières technologies de développement, et renforcé par ma longue expérience en tant que 'Senior Technical Analyst' chez HSBC Private Bank, je vous propose
                                                         de les partager avec vous, afin d'apporter les meilleures solutions pour votre entreprise.</p>
-                                                    <p>... et mon occupation préféré et de créer...</p>
+                                                    <p>... et mon occupation préféré est de créer...</p>
                                                 </div>
                                                 <div class="signature text-right">
                                                     <div class="inner">
@@ -345,7 +345,7 @@
                                             <p>Ma principale activité est le développement informatique.</p>
                                             <p>En tant que 'full Stack' développeur,<br> je travaille avec <b>Java</b> et le Framework <b>Spring</b> coté serveur (Je suis cértifié Java et j'ai toutes les certifications Spring ). </br>
                                                 Coté Client, avec HTML5, CSS 3, BootStrap, <b>TypeScript/JavaScript</b> et <b>Angular 2</b>.</p>
-                                            <p>Je suis prêts à m'investir en tant que <b>indépendant, free lance, IT consultant</b> ou<b> employé</b>.</p>
+                                            <p>Je suis prêt à m'investir en tant que <b>indépendant, free lance, IT consultant</b> ou<b> employé</b>.</p>
                                             <p>Mon précédent domaine d'activité était dans la banque privée, mais je peux agir dans tous types d'entreprise.</p>
                                             <p>Note : j'ai également exercé des activités en tant que 'Product Manager', 'Support Analyst' et 'Business Analyst'.</P>
 
@@ -911,7 +911,7 @@
                                             <p>Les premières valeurs dans lesquelles je crois sont : le travail et la compétence.
                                                 <p>Mes autres valeurs sont de travailler en transparence avec un haut degrés d'honnêteté envers mes employeurs ou clients, dans le respect des règles et règlements.
                                                 </p>
-                                                <p>Mes forces principales sont dans une expérience profonde de l'informatique, et une énorme envie de continuer à développer avec les technologies d'aujourd'hui.</p>
+                                                <p>Mes forces principales sont dans une expérience profonde de l'informatique, et une véritable envie de continuer à développer avec les technologies d'aujourd'hui.</p>
                                                 <p>Une très bonne relation avec mes collègues et clients par rapport à la confiance et gentillesse font partie de mes principes de base.</p>
                                         </div>
 

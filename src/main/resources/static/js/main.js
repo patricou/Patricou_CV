@@ -166,17 +166,17 @@ angular
         /*	------------------------ Change prices button ----------------------- */
         /* ---------------------------------------------------------------------- */
         $scope.money="CHF";
-        $scope.priceByDay="800";
-        $scope.priceByHour="70";
+        $scope.priceByDay="1200";
+        $scope.priceByHour="120";
         $scope.price = function(price) {
             if (price=="EUR"){
                 $scope.money = "EUR";
-                $scope.priceByDay="400";
-                $scope.priceByHour="40";
+                $scope.priceByDay="900";
+                $scope.priceByHour="90";
             }else{
                 $scope.money = "CHF";
-                $scope.priceByDay="800";
-                $scope.priceByHour="70";
+                $scope.priceByDay="1200";
+                $scope.priceByHour="120";
             };
 
 
