@@ -53,11 +53,12 @@ angular
         /*-----------------------------*/
 
         var reader = {
-            name: "",
-            email: ""
+            name: "Anonymous",
+            email: "deschamps.pat@gmail.com"
         };
 
         $scope.cvreader = reader;
+        $scope.checkAnonyme = true;
 
         $scope.postAnonymous = function() {
             if ($scope.checkAnonyme) {

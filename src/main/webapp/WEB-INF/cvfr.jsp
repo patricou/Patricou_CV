@@ -260,7 +260,7 @@
                                                     <p>Passionné d'informatique, j'exerce professionnellement en tant que consultant en développement pour de longues ou courtes missions.</p>
                                                     <p>Mes forces sont dans mes connaissances des dernières technologies de développement, et renforcé par ma longue expérience en tant que 'Senior Technical Analyst' chez HSBC Private Bank, je vous propose
                                                         de les partager avec vous, afin d'apporter les meilleures solutions pour votre entreprise.</p>
-                                                    <p>... et mon occupation préféré est de créer...</p>
+                                                    <p>... et mon occupation préférée est de créer...</p>
                                                 </div>
                                                 <div class="signature text-right">
                                                     <div class="inner">
@@ -3200,7 +3200,7 @@
                         <div class="modal-content">
                             <div class="modal-header">
                                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
-                                <h4 class="modal-title">Entrer l'info SVP</h4>
+                                <h4 class="modal-title">Entrez l'info SVP</h4>
                             </div>
                             <div class="modal-body">
                                 <!-- Form -->
