@@ -33,7 +33,7 @@
     <div id="bdiv">
         <div id="cdiv">
             <h1 class="fwhite main-title">Patrick DESCHAMPS</h1>
-            <p class="fwhite main-title">IT Consultant, Full Stack Developer
+            <p class="fwhite main-title">IT Consultant, Java Developer
             </p>
             <a class="btn btn-success btn-sm" type="button" href="cven">Start here <img src="images/flags/english.png"/> </a>
             <a class="btn btn-success btn-sm" type="button" href="cvfr">Entrez ici <img src="images/flags/france.png"/></a>

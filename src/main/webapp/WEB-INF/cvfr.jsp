@@ -343,7 +343,7 @@
 
                                         <div class="col-md-6">
                                             <p>Ma principale activité est le développement informatique.</p>
-                                            <p>En tant que 'full Stack' développeur,<br> je travaille avec <b>Java</b> et le Framework <b>Spring</b> coté serveur (Je suis cértifié Java et j'ai toutes les certifications Spring ). </br>
+                                            <p>En tant que Java développeur,<br> je travaille avec <b>Java</b> et le Framework <b>Spring</b> coté serveur (Je suis cértifié Java 8 et j'ai toutes les certifications Spring ). </br>
                                                 Coté Client, avec HTML5, CSS 3, BootStrap, <b>TypeScript/JavaScript</b> et <b>Angular 2</b>.</p>
                                             <p>Je suis prêt à m'investir en tant que <b>indépendant, free lance, IT consultant</b> ou<b> employé</b>.</p>
                                             <p>Mon précédent domaine d'activité était dans la banque privée, mais je peux agir dans tous types d'entreprise.</p>
@@ -1102,12 +1102,12 @@
                                             <!-- .attributes -->
                                             <ul class="attributes">
                                                 <li class="first">
-                                                    <h5>Développeur Full-Stack <span class="duration"><i
+                                                    <h5>Java Développeur<span class="duration"><i
                                                     class="fa fa-calendar color"></i> 2017</span></h5>
                                                     <h6><span class="fa fa-briefcase"></span> IT Consultant</h6>
-                                                    <p><b>Back-End :</b> </br>Java 1.6 programmer <b>(Certified)</b>.</br>
+                                                    <p><b>Back-End :</b> </br>Java 8 programmer <b>(Certified)</b>.</br>
                                                         Spécialiste Spring : Spring MVC, Spring Data REST, Spring Security, Sprint Boot, Spring MicroServices, Spring Enterprise.
-                                                        <b>(I have all Spring Certifications).</b> </br>
+                                                        <b>(J'ai toutes les certifications Spring).</b> </br>
                                                         Persistance : JDBC, Hibernate, JPA, </br>
                                                         Messaging : JMS </br>
                                                         <b>Front-End :</b></br>
@@ -1115,7 +1115,7 @@
                                                         Bootstrap 3 & 4, HTML 5, CSS 3</BR>
                                                         Node.js</br>
                                                         <b>Outils :</b></br>
-                                                        Maven, Docker </br>
+                                                        Maven</br>
                                                         Version Control : MKS, RTC, Git </br>
                                                         IntelliJ, STS, Visual Studio Code</br>
                                                     </p>
@@ -1124,7 +1124,7 @@
                                                     <h5>Développeur Back-End <span class="duration"><i
                                                     class="fa fa-calendar color"></i> 2013 - 2016</span></h5>
                                                     <h6><span class="fa fa-briefcase"></span> <a href="https://www.hsbcprivatebank.com/en">HSBC Private Bank</a></h6>
-                                                    <p>Java 1.6 programmer.</br>
+                                                    <p>Java.</br>
                                                         Spécialiste Spring framework , Spring MVC, Spring Security, JSP, (JDBC, Hibernate, JPA, JMS, REST, AOP )
                                                     </p>
                                                 </li>
@@ -1208,6 +1208,10 @@
                                                 <li class="first">
                                                     <h5>Certifications <span class="duration"><i
                                                     class="fa fa-calendar color"></i> 2012 - 2016</span></h5>
+                                                    <h6><span class="fa fa-book"></span> Oracle</h6>
+                                                    <p>Octobre 2017 : 'Oracle Certified Professional, Java SE 8 Programmer'
+                                                        <a href="#" data-toggle="modal" data-target="#javacertif"><span class="fa fa-graduation-cap" data-toggle="tooltip" title="Java Certification." /></a>
+                                                    </p>
                                                     <h6><span class="fa fa-book"></span> Pivotal</h6>
                                                     <p>Aôut 2016 : Spring Enterprise 4.0
                                                         <a href="#" data-toggle="modal" data-target="#springenterprise"><span class="fa fa-certificate" data-toggle="tooltip" title="Spring Enterpise Exam Results." /></a>
@@ -3109,7 +3113,7 @@
                         <div class="modal-content">
                             <div class="modal-header">
                                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                <h4 class="modal-title">Java 1.6 Certification</h4>
+                                <h4 class="modal-title">Java 6 Certification</h4>
                             </div>
                             <div class="modal-body">
                                 <p><img src="images/JAVA_1.6_certification.jpg"></p>
