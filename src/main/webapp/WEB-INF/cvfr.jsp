@@ -345,6 +345,8 @@
                                             <p>Ma principale activité est le développement informatique.</p>
                                             <p>En tant que Java développeur,<br> je travaille avec <b>Java</b> et le Framework <b>Spring</b> coté serveur (Je suis cértifié Java 8 et j'ai toutes les certifications Spring ). </br>
                                                 Coté Client, avec HTML5, CSS 3, BootStrap, <b>TypeScript/JavaScript</b> et <b>Angular 2</b>.</p>
+                                            <!--<p>Grace à mon expérience et à mes certifications, notamment Spring, je défini <b>l'architecture</b> de tous type d'applications : Application Web,
+                                            Application Java Standard, Application d'entreprise (EIP).</p>-->
                                             <p>Je suis prêt à m'investir en tant que <b>indépendant, free lance, IT consultant</b> ou<b> employé</b>.</p>
                                             <p>Mon précédent domaine d'activité était dans la banque privée, mais je peux agir dans tous types d'entreprise.</p>
                                             <p>Note : j'ai également exercé des activités en tant que 'Product Manager', 'Support Analyst' et 'Business Analyst'.</P>
@@ -528,7 +530,7 @@
                                                         <a href="#" data-toggle="modal" data-target="#springenterprisecertif"><span class="fa fa-graduation-cap" data-toggle="tooltip" title="Spring Enterprise Certification." /></a>
                                                         <a href="#" data-toggle="modal" data-target="#springwebcertif"><span class="fa fa-graduation-cap " data-toggle="tooltip" title="Spring Web Certification." /></a>
                                                         <a href="#" data-toggle="modal" data-target="#springcorecertif"><span class="fa fa-graduation-cap" data-toggle="tooltip" title="Spring Core Certification." /></a><i>, Java Certification : </i>
-                                                        <a href="#" data-toggle="modal" data-target="#javacertif"><span class="fa fa-graduation-cap" data-toggle="tooltip" title="Java Certification." /></a>
+                                                        <a href="#" data-toggle="modal" data-target="#javacertif8"><span class="fa fa-graduation-cap" data-toggle="tooltip" title="Java 8 Certification." /></a>
                                                     </p>
 
                                                     <div class="border-divider"></div>
@@ -1107,94 +1109,97 @@
                                                     <h6><span class="fa fa-briefcase"></span> IT Consultant</h6>
                                                     <p><b>Back-End :</b> </br>Java 8 programmer <b>(Certified)</b>.</br>
                                                         Spécialiste Spring : Spring MVC, Spring Data REST, Spring Security, Sprint Boot, Spring MicroServices, Spring Enterprise.
-                                                        <b>(J'ai toutes les certifications Spring).</b> </br>
-                                                        Persistance : JDBC, Hibernate, JPA, </br>
+                                                        <b>(J'ai toutes les certifications Spring)</b> </br>
+                                                        Persistance : JDBC, Hibernate, JPA </br>
                                                         Messaging : JMS </br>
                                                         <b>Front-End :</b></br>
-                                                        JavaScript, Angular 2, jQuery</br>
+                                                        JavaScript, Angular 2, jQuery, Node.js</br>
                                                         Bootstrap 3 & 4, HTML 5, CSS 3</BR>
-                                                        Node.js</br>
+                                                        <b>Intégration Continue :</b></br>
+                                                        Git, Maven, Jenkins, RTC, Nexus, Sonar</br>
                                                         <b>Outils :</b></br>
-                                                        Maven</br>
-                                                        Version Control : MKS, RTC, Git </br>
                                                         IntelliJ, STS, Visual Studio Code</br>
                                                     </p>
                                                 </li>
                                                 <li class="first">
                                                     <h5>Développeur Back-End <span class="duration"><i
                                                     class="fa fa-calendar color"></i> 2013 - 2016</span></h5>
-                                                    <h6><span class="fa fa-briefcase"></span> <a href="https://www.hsbcprivatebank.com/en">HSBC Private Bank</a></h6>
-                                                    <p>Java.</br>
+                                                    <h6><span class="fa fa-briefcase"></span> <a href="https://www.hsbcprivatebank.com/en" target="_blank">HSBC Private Bank</a></h6>
+                                                    <p>Java</br>
                                                         Spécialiste Spring framework , Spring MVC, Spring Security, JSP, (JDBC, Hibernate, JPA, JMS, REST, AOP )
                                                     </p>
                                                 </li>
                                                 <li>
                                                     <h5>Développeur Front-End <span class="duration"><i
                                                     class="fa fa-calendar color"></i> 2013 - 2016</span></h5>
-                                                    <h6><span class="fa fa-briefcase"></span> <a href="https://www.hsbcprivatebank.com/en">HSBC Private Bank</a></h6>
-                                                    <p>JavaScript, HTML5, CSS, Ajax, JSON, jQuery, requireJS.</p>
+                                                    <h6><span class="fa fa-briefcase"></span> <a href="https://www.hsbcprivatebank.com/en" target="_blank">HSBC Private Bank</a></h6>
+                                                    <p>JavaScript, HTML5, CSS, Ajax, JSON, jQuery, requireJS</p>
                                                 </li>
                                                 <li>
                                                     <h5>'Senior Technical Analyst'<span class="duration"><i
                                                     class="fa fa-calendar color"></i> 2010 - 2016</span></h5>
-                                                    <h6><span class="fa fa-briefcase"></span> <a href="https://www.hsbcprivatebank.com/en">HSBC Private Bank</a></h6>
-                                                    <p><b>SQL</b> : plus de 10 ans d'expérience en développement SQL ( Sybase et DB2 ).</br>
-                                                        Tous types d'applications Java avec le framework Spring.</br>
-                                                        Control-M, MS DOS batch, Unix développement.</br>
+                                                    <h6><span class="fa fa-briefcase"></span> <a href="https://www.hsbcprivatebank.com/en" target="_blank">HSBC Private Bank</a></h6>
+                                                    <p><b>Langages :</b></br> 10 ans d'expérience en développement SQL ( Sybase et DB2 )</br>
+                                                        Tous types d'applications Java avec le framework Spring</br>
+                                                        Control-M, MS DOS batch, Unix batch</br>
                                                         <b>Outils :</b></br>
-                                                        IDE : IntellijIdea, STS.</br>
-                                                        Build tool : Maven.</br>
-                                                        Version controle : RTC, MKS.</p>
+                                                        IDE : IntellijIdea, STS</br>
+                                                        Build tool : Maven</br>
+                                                        Version controle : RTC, MKS,Nexus</br>
+                                                        <b>Tests et Livraison :</b></br>
+                                                        Unit testing, integration et UAT</br>
+                                                        Mise en production </br>
+                                                        <i>Tache de 'Business Analyst'  ( Je suis certifié BA )</i>
                                                 </li>
                                                 <li>
                                                     <h5>'Product Manager' DataWare House<span class="duration"><i
                                                     class="fa fa-calendar color"></i> 2010 - 2016</span></h5>
-                                                    <h6><span class="fa fa-briefcase"></span> <a href="https://www.hsbcprivatebank.com/en">HSBC Private Bank</a></h6>
+                                                    <h6><span class="fa fa-briefcase"></span> <a href="https://www.hsbcprivatebank.com/en" target="_blank">HSBC Private Bank</a></h6>
                                                     <!--<a href="#" data-toggle="modal" data-target="#workcertif"> (Work Certificate <span class="fa fa-certificate"> )</a> -->
-                                                    <p>Responsable de production (Product Manager) plateforme datawarehouse ( Sybase ). </br>
-                                                        Encadrement des équipes IT de HSBC India et validation de leur travail ( Offshoring ). </br>
-                                                        Déploiement en production en suivant les procédures de release ( rôle de projet manager).
+                                                    <p>Responsable de production (Product Manager) plateforme datawarehouse ( Sybase ) </br>
+                                                        Encadrement des équipes IT de HSBC India et validation de leur travail ( Offshoring ) </br>
+                                                        Déploiement en production en suivant les procédures de release ( rôle de projet manager)
                                                     </p>
                                                 </li>
                                                 <li>
                                                     <h5>'Technical Analyst'<span class="duration"><i
                                                     class="fa fa-calendar color"></i> 2006 - 2010</span></h5>
-                                                    <h6><span class="fa fa-briefcase"></span> <a href="https://www.hsbcprivatebank.com/en">HSBC Private Bank</a></h6>
+                                                    <h6><span class="fa fa-briefcase"></span> <a href="https://www.hsbcprivatebank.com/en" target="_blank">HSBC Private Bank</a></h6>
                                                     <p>Chef de groupe dans le service de support applicatif pour toutes les applications, exceptés le Mainframe : plateforme documentaire, Applications Web, eBanking, Applications SQL (Sybase, DB2), Java et
-                                                        support du batch de nuit.
+                                                        support du batch de nuit
                                                     </p>
                                                 </li>
                                                 <li>
                                                     <h5>'Product Manager' de la plateforme documentaire<span class="duration"><i
                                                     class="fa fa-calendar color"></i> 2003 - 2006</span></h5>
-                                                    <h6><span class="fa fa-briefcase"></span> <a href="https://www.hsbcprivatebank.com/en">HSBC Private Bank</a></h6>
-                                                    <p>Responsable de production (Product Manager) de la plateforme gérant les documents de la banque : Archivage et reporting (IBM content manager, IBM WebSphere application server, IBM DB2, Actuate). </p>
+                                                    <h6><span class="fa fa-briefcase"></span> <a href="https://www.hsbcprivatebank.com/en" target="_blank">HSBC Private Bank</a></h6>
+                                                    <p>Responsable de production (Product Manager) de la plateforme gérant les documents de la banque : Archivage et reporting (IBM content manager, IBM WebSphere application server, IBM DB2, Actuate)</p>
                                                 </li>
                                                 <li>
                                                     <h5>Analyste Programmeur<span class="duration"><i
                                                     class="fa fa-calendar color"></i> 1997 - 2003</span></h5>
-                                                    <h6><span class="fa fa-briefcase"></span> <a href="https://www.hsbcprivatebank.com/en">HSBC Private Bank</a></h6>
-                                                    <p>Projet eDMS : ‘electronic Document Managment System’ : implémentation des procédures pour la migration des documents. SQL – IBM DB2. </br>
-                                                        Projet eCommerce : Etats des biens des clients sur Internet : Etude et analyse; modélisation des bases de données; développement des requêtes SQL (Sybase).</br>
-                                                        Développement d’applications Web (java) d'administration des clients Internet.</br>
-                                                        Projet data transfert : Développement SQL de procédures d’extractions des avoirs clients SQL (forex, dépôts fiduciaires, transferts, titres, comptes, fond).
+                                                    <h6><span class="fa fa-briefcase"></span> <a href="https://www.hsbcprivatebank.com/en" target="_blank">HSBC Private Bank</a></h6>
+                                                    <p>Projet eDMS : ‘electronic Document Managment System’ : implémentation des procédures pour la migration des documents. SQL – IBM DB2 </br>
+                                                        Projet eCommerce : Etats des biens des clients sur Internet : Etude et analyse; modélisation des bases de données; développement des requêtes SQL (Sybase)</br>
+                                                        Développement d’applications Web (java) d'administration des clients Internet</br>
+                                                        Projet data transfert : Développement SQL de procédures d’extractions des avoirs clients SQL (forex, dépôts fiduciaires, transferts, titres, comptes, fond)
                                                     </p>
                                                 </li>
                                                 <li>
                                                     <h5>'Technical Analyst'<span class="duration"><i
                                                     class="fa fa-calendar color"></i> 1995 - 1997</span></h5>
-                                                    <h6><span class="fa fa-briefcase"></span> <a href="https://home.cern/fr">CERN</a>
+                                                    <h6><span class="fa fa-briefcase"></span> <a href="https://home.cern/fr" target="_blank">CERN</a>
                                                     </h6>
-                                                    <p>Développement en Delphi des applications réseaux gérant la maintenance.</br>
-                                                        Installation de logiciels et d’extensions spécifiques sur PC pour pilotage de machines pour expérience.</p>
+                                                    <p>Développement en Delphi des applications réseaux gérant la maintenance</br>
+                                                        Installation de logiciels et d’extensions spécifiques sur PC pour pilotage de machines pour expérience</p>
                                                 </li>
                                                 <li>
                                                     <h5>'Technical Analyst'<span class="duration"><i
                                                     class="fa fa-calendar color"></i> 1987 - 1990</span></h5>
-                                                    <h6><span class="fa fa-briefcase"></span> <a href="http://www.courbon.fr/">Courbon</a>
+                                                    <h6><span class="fa fa-briefcase"></span> <a href="http://www.courbon.fr/" target="_blank">Courbon</a>
                                                     </h6>
-                                                    <p>Développement de logiciels pour machines de contrôle par caméras (langage : Pascal, assembleur). </br>
-                                                        Etudes de faisabilité sur site et à l'entreprise.</p>
+                                                    <p>Développement de logiciels pour machines de contrôle par caméras (langage : Pascal, assembleur) </br>
+                                                        Etudes de faisabilité sur site et à l'entreprise</p>
                                                 </li>
                                             </ul>
                                             <!-- /.attributes -->
@@ -1207,10 +1212,14 @@
                                             <ul class="attributes">
                                                 <li class="first">
                                                     <h5>Certifications <span class="duration"><i
-                                                    class="fa fa-calendar color"></i> 2012 - 2016</span></h5>
+                                                    class="fa fa-calendar color"></i> 2012 - 2017</span></h5>
                                                     <h6><span class="fa fa-book"></span> Oracle</h6>
                                                     <p>Octobre 2017 : 'Oracle Certified Professional, Java SE 8 Programmer'
-                                                        <a href="#" data-toggle="modal" data-target="#javacertif"><span class="fa fa-graduation-cap" data-toggle="tooltip" title="Java Certification." /></a>
+                                                        <a href="#" data-toggle="modal" data-target="#javacertif8"><span class="fa fa-graduation-cap" data-toggle="tooltip" title="Java 8 Certification." /></a>
+                                                        <a href="https://www.youracclaim.com/badges/d71a0583-93fa-4e64-9145-b4675c77ed20/linked_in_profile" target="_blank"><span class="fa fa-id-badge" data-toggle="tooltip" title="Java 8 Badge." /></a></br>
+                                                        Juillet 2013 : 'Oracle Certified Professional, Java SE 6 Programmer'
+                                                        <a href="#" data-toggle="modal" data-target="#javacertif6"><span class="fa fa-graduation-cap" data-toggle="tooltip" title="Java 6 Certification." /></a>
+                                                        <a href="https://www.youracclaim.com/badges/441d2c72-00ae-45b1-b939-c680989f6f69/linked_in_profile" target="_blank"><span class="fa fa-id-badge" data-toggle="tooltip" title="Java 6 Badge." /></a></br>
                                                     </p>
                                                     <h6><span class="fa fa-book"></span> Pivotal</h6>
                                                     <p>Aôut 2016 : Spring Enterprise 4.0
@@ -1221,10 +1230,6 @@
                                                         <a href="#" data-toggle="modal" data-target="#springcore"><span class="fa fa-certificate" data-toggle="tooltip" title="Spring Core Exam Results." /></a>&nbsp
                                                         <a href="#" data-toggle="modal" data-target="#springcorecertif"><span class="fa fa-graduation-cap" data-toggle="tooltip" title="Spring Core Certification." /></a><br/>
                                                         <i>(note: J'ai toutes les certification Spring officielles (de Pivotal))</i></p>
-                                                    <h6><span class="fa fa-book"></span> Oracle</h6>
-                                                    <p>Juillet 2013 : 'Oracle Certified Professional, Java SE 6 Programmer'
-                                                        <a href="#" data-toggle="modal" data-target="#javacertif"><span class="fa fa-graduation-cap" data-toggle="tooltip" title="Java Certification." /></a>
-                                                    </p>
                                                     <h6><span class="fa fa-book"></span> CCBA</h6>
                                                     <p>Mars 2012 : Business Analyst Certifié : CCBA
                                                         <a href="#" data-toggle="modal" data-target="#ccbacertif"><span class="fa fa-graduation-cap" data-toggle="tooltip" title="CCBA Certification." /></a>
@@ -1233,14 +1238,19 @@
                                                 <li>
                                                     <h5>Formations <span class="duration"><i
                                                     class="fa fa-calendar color"></i> 2013 - 2017</span></h5>
-                                                    <h6><span class="fa fa-book"></span> <a href="http://www.zenika.com/">Zenika</h6></li>
+                                                    <h6><span class="fa fa-book"></span> <a href="http://www.objis.com" target="_blank">Objis</a></h6></li>
+                                                </a></h6>
+                                                <p>Octobre 2017 : Intégration continue avec Git, Maven, Jenkins, Nexus, Sonar <a href="http://www.objis.com/formation-java/formation-integration-continue-methodes-agiles.html"  target="_blank">
+                                                    <span class="fa fa-link"></span>
+                                                </a><br/>
+                                                <h6><span class="fa fa-book"></span> <a href="http://www.zenika.com/" target="_blank">Zenika</a></h6></li>
                                         </a></h6>
                                                     <p>Mars 2017 : Spring MicroServices <br/> Mars 2017 : Angular 2 <br/> 2015 : Spring Enterprise 4.0 <br/> 2014 : Spring Web Application developer (Spring MVC) <br/> 2013 : Spring Core 3.2 </p>
                                                 </li>
                                                 <li>
                                                     <h5>Diplômes <span class="duration"><i
                                                     class="fa fa-calendar color"></i> 1983 - 1986</span></h5>
-                                                    <h6><span class="fa fa-book"></span> <a href="http://www.iut.univ-st-etienne.fr/fr/index.html">IUT St.
+                                                    <h6><span class="fa fa-book"></span> <a href="http://www.iut.univ-st-etienne.fr/fr/index.html" target="_blank">IUT St.
                                                 Etienne</h6></li>
                                         </a></h6>
                                                     <p>DUT de 'Mesures Physiques' <a href="#" data-toggle="modal" data-target="#dut"><span
@@ -1280,7 +1290,7 @@
                                             <div class="skills">
                                                 <!-- .skillbar -->
                                                 <div class="skillbar clearfix" data-percent="90%">
-                                                    <div class="skillbar-title"><span>Java</span></div>
+                                                    <div class="skillbar-title"><span>Java SE 8</span></div>
                                                     <div class="skillbar-bar"></div>
                                                     <div class="skill-bar-percent">90%</div>
                                                 </div>
@@ -1310,17 +1320,17 @@
                                                 </div>
                                                 <!-- /.skillbar -->
                                                 <!-- .skillbar -->
-                                                <div class="skillbar clearfix" data-percent="75%">
+                                                <div class="skillbar clearfix" data-percent="70%">
                                                     <div class="skillbar-title"><span>TypeScript</span></div>
                                                     <div class="skillbar-bar"></div>
-                                                    <div class="skill-bar-percent">75%</div>
+                                                    <div class="skill-bar-percent">70%</div>
                                                 </div>
                                                 <!-- /.skillbar -->
                                                 <!-- .skillbar -->
-                                                <div class="skillbar clearfix" data-percent="80%">
+                                                <div class="skillbar clearfix" data-percent="70%">
                                                     <div class="skillbar-title"><span>Angular 2</span></div>
                                                     <div class="skillbar-bar"></div>
-                                                    <div class="skill-bar-percent">80%</div>
+                                                    <div class="skill-bar-percent">70%</div>
                                                 </div>
                                                 <!-- /.skillbar -->
                                                 <div class="skillbar clearfix" data-percent="70%">
@@ -1337,10 +1347,17 @@
                                                 </div>
                                                 <!-- /.skillbar -->
                                                 <!-- .skillbar -->
-                                                <div class="skillbar clearfix" data-percent="80%">
+                                                <div class="skillbar clearfix" data-percent="75%">
                                                     <div class="skillbar-title"><span>CSS 3</span></div>
                                                     <div class="skillbar-bar"></div>
-                                                    <div class="skill-bar-percent">80%</div>
+                                                    <div class="skill-bar-percent">75%</div>
+                                                </div>
+                                                <!-- /.skillbar -->
+                                                <!-- .skillbar -->
+                                                <div class="skillbar clearfix" data-percent="75%">
+                                                    <div class="skillbar-title"><span>Bootstrap</span></div>
+                                                    <div class="skillbar-bar"></div>
+                                                    <div class="skill-bar-percent">75%</div>
                                                 </div>
                                                 <!-- /.skillbar -->
 
@@ -1348,25 +1365,37 @@
 
                                             <!-- .title_content -->
                                             <div class="title-section">
-                                                <h2 class="section_title">Création de Site Web</h2>
+                                                <h2 class="section_title">Integration Continue</h2>
                                                 <div class="sep2"></div>
                                             </div>
                                             <!-- /.title_content -->
-
                                             <div class="skills">
                                                 <!-- .skillbar -->
-                                                <div class="skillbar clearfix" data-percent="95%">
-                                                    <div class="skillbar-title"><span>Créativité</span></div>
+                                                <div class="skillbar clearfix" data-percent="80%">
+                                                    <div class="skillbar-title"><span>GIT</span></div>
                                                     <div class="skillbar-bar"></div>
-                                                    <div class="skill-bar-percent">95%</div>
+                                                    <div class="skill-bar-percent">80%</div>
                                                 </div>
                                                 <!-- /.skillbar -->
-
                                                 <!-- .skillbar -->
-                                                <div class="skillbar clearfix " data-percent="90%">
-                                                    <div class="skillbar-title"><span>Nouvelles idées</span></div>
+                                                <div class="skillbar clearfix " data-percent="80%">
+                                                    <div class="skillbar-title"><span>Maven</span></div>
                                                     <div class="skillbar-bar"></div>
-                                                    <div class="skill-bar-percent">90%</div>
+                                                    <div class="skill-bar-percent">80%</div>
+                                                </div>
+                                                <!-- /.skillbar -->
+                                                <!-- .skillbar -->
+                                                <div class="skillbar clearfix " data-percent="70%">
+                                                    <div class="skillbar-title"><span>Jenkins</span></div>
+                                                    <div class="skillbar-bar"></div>
+                                                    <div class="skill-bar-percent">70%</div>
+                                                </div>
+                                                <!-- /.skillbar -->
+                                                <!-- .skillbar -->
+                                                <div class="skillbar clearfix " data-percent="65%">
+                                                    <div class="skillbar-title"><span>Nexus</span></div>
+                                                    <div class="skillbar-bar"></div>
+                                                    <div class="skill-bar-percent">65%</div>
                                                 </div>
                                                 <!-- /.skillbar -->
                                             </div>
@@ -1389,7 +1418,69 @@
 
                                                 <!-- .skillbar -->
                                                 <div class="skillbar clearfix " data-percent="80%">
-                                                    <div class="skillbar-title"><span>Applications Java Standards</span></div>
+                                                    <div class="skillbar-title"><span>Applications Java Standard</span></div>
+                                                    <div class="skillbar-bar"></div>
+                                                    <div class="skill-bar-percent">80%</div>
+                                                </div>
+                                                <!-- /.skillbar -->
+                                            </div>
+
+                                            <!-- .title_content -->
+                                            <div class="title-section">
+                                                <h2 class="section_title">Architecture</h2>
+                                                <div class="sep2"></div>
+                                            </div>
+                                            <!-- /.title_content -->
+
+                                            <div class="skills">
+                                                <!-- .skillbar -->
+                                                <div class="skillbar clearfix" data-percent="60%">
+                                                    <div class="skillbar-title"><span>SOA</span></div>
+                                                    <div class="skillbar-bar"></div>
+                                                    <div class="skill-bar-percent">60%</div>
+                                                </div>
+                                                <!-- /.skillbar -->
+                                                <!-- .skillbar -->
+                                                <div class="skillbar clearfix " data-percent="65%">
+                                                    <div class="skillbar-title"><span>Java architect</span></div>
+                                                    <div class="skillbar-bar"></div>
+                                                    <div class="skill-bar-percent">65%</div>
+                                                </div>
+                                                <!-- /.skillbar -->
+                                            </div>
+
+                                            <!-- .title_content -->
+                                            <div class="title-section">
+                                                <h2 class="section_title">Tests & Qualité</h2>
+                                                <div class="sep2"></div>
+                                            </div>
+                                            <!-- /.title_content -->
+
+                                            <div class="skills">
+                                                <!-- .skillbar -->
+                                                <div class="skillbar clearfix" data-percent="75%">
+                                                    <div class="skillbar-title"><span>Sonar</span></div>
+                                                    <div class="skillbar-bar"></div>
+                                                    <div class="skill-bar-percent">75%</div>
+                                                </div>
+                                                <!-- /.skillbar -->
+                                                <!-- .skillbar -->
+                                                <div class="skillbar clearfix" data-percent="75%">
+                                                    <div class="skillbar-title"><span>Unit tests</span></div>
+                                                    <div class="skillbar-bar"></div>
+                                                    <div class="skill-bar-percent">75%</div>
+                                                </div>
+                                                <!-- /.skillbar -->
+                                                <!-- .skillbar -->
+                                                <div class="skillbar clearfix " data-percent="80%">
+                                                    <div class="skillbar-title"><span>Integration</span></div>
+                                                    <div class="skillbar-bar"></div>
+                                                    <div class="skill-bar-percent">80%</div>
+                                                </div>
+                                                <!-- /.skillbar -->
+                                                <!-- .skillbar -->
+                                                <div class="skillbar clearfix " data-percent="80%">
+                                                    <div class="skillbar-title"><span>UAT</span></div>
                                                     <div class="skillbar-bar"></div>
                                                     <div class="skill-bar-percent">80%</div>
                                                 </div>
@@ -1406,7 +1497,7 @@
                                             <div class="skills">
                                                 <!-- .skillbar -->
                                                 <div class="skillbar clearfix" data-percent="75%">
-                                                    <div class="skillbar-title"><span>maven</span></div>
+                                                    <div class="skillbar-title"><span>Visual Studio Code</span></div>
                                                     <div class="skillbar-bar"></div>
                                                     <div class="skill-bar-percent">75%</div>
                                                 </div>
@@ -1436,10 +1527,10 @@
 
                                             <div class="skills">
                                                 <!-- .skillbar -->
-                                                <div class="skillbar clearfix" data-percent="90%">
-                                                    <div class="skillbar-title"><span>Analyse</span></div>
+                                                <div class="skillbar clearfix" data-percent="65%">
+                                                    <div class="skillbar-title"><span>Business Analyste activité</span></div>
                                                     <div class="skillbar-bar"></div>
-                                                    <div class="skill-bar-percent">90%</div>
+                                                    <div class="skill-bar-percent">65%</div>
                                                 </div>
                                                 <!-- /.skillbar -->
                                                 <!-- .skillbar -->
@@ -1469,18 +1560,18 @@
 
                                             <div class="skills">
                                                 <!-- .skillbar -->
-                                                <div class="skillbar clearfix" data-percent="95%">
-                                                    <div class="skillbar-title"><span>Activités de 'Prodcut Manager'' </span></div>
+                                                <div class="skillbar clearfix" data-percent="70%">
+                                                    <div class="skillbar-title"><span>Activités de 'Product Manager'' </span></div>
                                                     <div class="skillbar-bar"></div>
-                                                    <div class="skill-bar-percent">95%</div>
+                                                    <div class="skill-bar-percent">70%</div>
                                                 </div>
                                                 <!-- /.skillbar -->
 
                                                 <!-- .skillbar -->
-                                                <div class="skillbar clearfix " data-percent="95%">
+                                                <div class="skillbar clearfix " data-percent="90%">
                                                     <div class="skillbar-title"><span>Suivi des livraison et 'release'</span></div>
                                                     <div class="skillbar-bar"></div>
-                                                    <div class="skill-bar-percent">95%</div>
+                                                    <div class="skill-bar-percent">90%</div>
                                                 </div>
                                                 <!-- /.skillbar -->
                                             </div>
@@ -2659,7 +2750,7 @@
                                         Outils : Node, npm, Angular CLI, Visual Studio Code, GIT
                                     </p>
                                     <p><b>Back End :</b></br>
-                                        <a class="btn btn-sm btn-default" href="https://github.com/patricou/SportPat_Back-End" target="_blank"><i class="fa fa-github"></i> Back-End Code Source sur GitHub</a><br> Java 1.8</br>
+                                        <a class="btn btn-sm btn-default" href="https://github.com/patricou/SportPat_Back-End" target="_blank"><i class="fa fa-github"></i> Back-End Code Source sur GitHub</a><br> Java 8</br>
                                         Spring, Spring Boot (1.5.2.RELEASE)</br>
                                         Outils : IntelliJ, Maven, GIT
                                     </p>
@@ -3106,8 +3197,8 @@
                     </div>
                 </div>
 
-                <!-- Modal window for java Certif -->
-                <div class="modal fade" id="javacertif" role="dialog">
+                <!-- Modal window for java 6 Certif  -->
+                <div class="modal fade" id="javacertif6" role="dialog">
                     <div class="modal-dialog">
                         <!-- Modal content-->
                         <div class="modal-content">
@@ -3117,6 +3208,25 @@
                             </div>
                             <div class="modal-body">
                                 <p><img src="images/JAVA_1.6_certification.jpg"></p>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Modal window for java 6 Certif  -->
+                <div class="modal fade" id="javacertif8" role="dialog">
+                    <div class="modal-dialog">
+                        <!-- Modal content-->
+                            <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                <h4 class="modal-title">Java 8 Certification</h4>
+                            </div>
+                            <div class="modal-body">
+                                <p><img src="images/JAVA_1.8_certification.jpg"></p>
                             </div>
                             <div class="modal-footer">
                                 <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>

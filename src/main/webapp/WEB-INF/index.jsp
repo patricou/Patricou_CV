@@ -5,11 +5,11 @@
 <!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
 
 <head>
-    <title>Patrick DESCHAMPS - Développeur Full Stack</title>
+    <title>Patrick DESCHAMPS - Java Developer</title>
     <!-- Basic Page Needs -->
     <meta charset="UTF-8"/>
-    <META NAME="description" CONTENT="Développeur Full Stack, Front End, Back End, web site, Java, Spring, Typescript, JavaScript, Angular 2, HTTP, REST, HTML, CSS">
-    <META NAME="keywords" CONTENT="Java, Spring, Typescript, JavaScript, Angular, HTML5, CSS, Bootstrap">
+    <META NAME="description" CONTENT="Developer, java, Full Stack, Front End, Back End, web site, Java, Spring, Typescript, JavaScript, Angular 2, HTTP, REST, HTML, CSS, Jenkins, Sonar, Git, Nexus">
+    <META NAME="keywords" CONTENT="Java, Spring, Typescript, JavaScript, Angular 4, HTML5, CSS, Bootstrap">
     <META NAME="robots" CONTENT="index,follow">
     <meta name="googlebot" content="all" />
     <META NAME="Content-language" CONTENT="english">
@@ -35,8 +35,7 @@
             <h1 class="fwhite main-title">Patrick DESCHAMPS</h1>
             <p class="fwhite main-title">IT Consultant, Java Developer
             </p>
-            <a class="btn btn-success btn-sm" type="button" href="cven">Start here <img src="images/flags/english.png"/> </a>
-            <a class="btn btn-success btn-sm" type="button" href="cvfr">Entrez ici <img src="images/flags/france.png"/></a>
+            <a class="btn btn-primary btn-lg" type="button" href="cven">Enter</a>
         </div>
     </div>
 
