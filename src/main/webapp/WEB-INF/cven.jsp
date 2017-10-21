@@ -343,15 +343,17 @@
                                         </div>
 
                                         <div class="col-md-6">
-                                            <p>My main activity is the IT software development.</p>
-                                            <p>As Java developer,</br> I develop with <b>Java</b> and the Framework <b>Spring</b> for server side ( I am Java 8 Certified and I have all Spring Certifications ). <br> For the client side, I develop with HTML5,
+                                            <p>My main activity is in the IT software development area.</p>
+                                            <p><b>As Java developer,</b></br>
+                                                I implement Web Application, Standard Application or Enterprise Application with <b>Java</b> and the Framework <b>Spring</b>
+                                                ( I am Java 8 Certified and I have all Spring Certifications ).<br>
+                                                For the client side of Web Application, I develop with HTML5,
                                                 CSS3, BootStrap, <b>Typescript/JavaScript</b> and <b>Angular2</b>.</p>
                                             <!-- <p>Due to my experiencies and certifications, in particular Spring, I define the <b>architecture</b> of all type of applications ( internal design ) : Web Application, Standard Application,
                                             Enterprise Application ( following EIP patterm ).</p> -->
                                             <p>I'm open to act as an <b>independent, free lancer, IT consultant</b> or as an<b> employee</b>.</p>
                                             <p>My precedent professional branch was in Private Banking area, but I'm ready to work in all type of Enterprise.</p>
-                                            <p>Note : I have also acted as Product Owner, Support Analyst and Business Analyst.</P>
-
+                                            <i>Don't hesitate to see my specifics skills ('Resume' button on the left), then 'Enter' as anonymous if you don't want to give your identity. </i>
                                             <!-- <a href="#values" class="btn btn_service_intro">My Values</a> -->
 
                                         </div>

@@ -343,13 +343,14 @@
 
                                         <div class="col-md-6">
                                             <p>Ma principale activité est le développement informatique.</p>
-                                            <p>En tant que Java développeur,<br> je travaille avec <b>Java</b> et le Framework <b>Spring</b> coté serveur (Je suis cértifié Java 8 et j'ai toutes les certifications Spring ). </br>
-                                                Coté Client, avec HTML5, CSS 3, BootStrap, <b>TypeScript/JavaScript</b> et <b>Angular 2</b>.</p>
+                                            <p><b>En tant que développeur Java,</b><br> j’implemente des Web Applications, Applications Standard ou des applications d’entreprise avec Java et le framework Spring
+                                            (Je suis cértifié Java 8 et j'ai toutes les certifications Spring ). </br>
+                                            Coté Client pour les applications Web, je développe avec HTML5, CSS 3, BootStrap, <b>TypeScript/JavaScript</b> et <b>Angular 2</b>.</p>
                                             <!--<p>Grace à mon expérience et à mes certifications, notamment Spring, je défini <b>l'architecture</b> de tous type d'applications : Application Web,
                                             Application Java Standard, Application d'entreprise (EIP).</p>-->
                                             <p>Je suis prêt à m'investir en tant que <b>indépendant, free lance, IT consultant</b> ou<b> employé</b>.</p>
                                             <p>Mon précédent domaine d'activité était dans la banque privée, mais je peux agir dans tous types d'entreprise.</p>
-                                            <p>Note : j'ai également exercé des activités en tant que 'Product Manager', 'Support Analyst' et 'Business Analyst'.</P>
+                                            <i>N'hésitez pas à aller voir mon CV en ligne (bouton 'Curriculum' à gauche), puis 'Entrez' en tant qu'Anonyme, si vous ne voulez pas donner votre identité.</i>
 
                                             <!-- <a href="#values" class="btn btn_service_intro">My Values</a> -->
 
