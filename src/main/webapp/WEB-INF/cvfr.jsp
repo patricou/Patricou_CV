@@ -342,10 +342,10 @@
                                         </div>
 
                                         <div class="col-md-6">
-                                            <p>Ma principale activité est le développement informatique.</p>
-                                            <p><b>En tant que développeur Java,</b><br> j’implemente des Web Applications, Applications Standard ou des applications d’entreprise avec Java et le framework Spring
+                                            <p>Ma principale activité est le développement de Software informatique.</p>
+                                            <p><b>En tant que développeur Java,</b><br> j’implemente des Web Applications, Applications Standard ou des Applications d’Entreprise avec <b>Java et le framework Spring</b>
                                             (Je suis cértifié Java 8 et j'ai toutes les certifications Spring ). </br>
-                                            Coté Client pour les applications Web, je développe avec HTML5, CSS 3, BootStrap, <b>TypeScript/JavaScript</b> et <b>Angular 2</b>.</p>
+                                            Coté Client pour les Applications Web, je développe avec HTML5, CSS 3, BootStrap, <b>TypeScript/JavaScript</b> et <b>Angular 2</b>.</p>
                                             <!--<p>Grace à mon expérience et à mes certifications, notamment Spring, je défini <b>l'architecture</b> de tous type d'applications : Application Web,
                                             Application Java Standard, Application d'entreprise (EIP).</p>-->
                                             <p>Je suis prêt à m'investir en tant que <b>indépendant, free lance, IT consultant</b> ou<b> employé</b>.</p>
@@ -530,7 +530,7 @@
                                                     <p class="service-description"><i>Spring Certifications : </i>
                                                         <a href="#" data-toggle="modal" data-target="#springenterprisecertif"><span class="fa fa-graduation-cap" data-toggle="tooltip" title="Spring Enterprise Certification." /></a>
                                                         <a href="#" data-toggle="modal" data-target="#springwebcertif"><span class="fa fa-graduation-cap " data-toggle="tooltip" title="Spring Web Certification." /></a>
-                                                        <a href="#" data-toggle="modal" data-target="#springcorecertif"><span class="fa fa-graduation-cap" data-toggle="tooltip" title="Spring Core Certification." /></a><i>, Java Certification : </i>
+                                                        <a href="#" data-toggle="modal" data-target="#springcorecertif"><span class="fa fa-graduation-cap" data-toggle="tooltip" title="Spring Professional Certification." /></a><i>, Java Certification : </i>
                                                         <a href="#" data-toggle="modal" data-target="#javacertif8"><span class="fa fa-graduation-cap" data-toggle="tooltip" title="Java 8 Certification." /></a>
                                                     </p>
 
@@ -1225,11 +1225,16 @@
                                                     <h6><span class="fa fa-book"></span> Pivotal</h6>
                                                     <p>Aôut 2016 : Spring Enterprise 4.0
                                                         <a href="#" data-toggle="modal" data-target="#springenterprise"><span class="fa fa-certificate" data-toggle="tooltip" title="Spring Enterpise Exam Results." /></a>
-                                                        <a href="#" data-toggle="modal" data-target="#springenterprisecertif"><span class="fa fa-graduation-cap" data-toggle="tooltip" title="Spring Enterprise Certification." /></a><br/> Mars 2015 : Spring Web Application developer (Spring MVC)
+                                                        <a href="#" data-toggle="modal" data-target="#springenterprisecertif"><span class="fa fa-graduation-cap" data-toggle="tooltip" title="Spring Enterprise Certification." /></a>
+                                                        <a href="https://d1fto35gcfffzn.cloudfront.net/training/exam-briefs/Pivotal_ExamBrief_EnterpriseIntegrationSpecialist.pdf"  data-toggle="tooltip" title="Exam Description." target="_blank"><span class="fa fa-link"></span></a><br/>
+                                                        Mars 2015 : Spring Web Application developer 3.2 (Spring MVC)
                                                         <a href="#" data-toggle="modal" data-target="#springweb"><span class="fa fa-certificate" data-toggle="tooltip" title="Spring Web Exam Results." /></a>&nbsp
-                                                        <a href="#" data-toggle="modal" data-target="#springwebcertif"><span class="fa fa-graduation-cap " data-toggle="tooltip" title="Spring Web Certification." /></a><br/> Juin 2014 : Spring Core 3.2
-                                                        <a href="#" data-toggle="modal" data-target="#springcore"><span class="fa fa-certificate" data-toggle="tooltip" title="Spring Core Exam Results." /></a>&nbsp
-                                                        <a href="#" data-toggle="modal" data-target="#springcorecertif"><span class="fa fa-graduation-cap" data-toggle="tooltip" title="Spring Core Certification." /></a><br/>
+                                                        <a href="#" data-toggle="modal" data-target="#springwebcertif"><span class="fa fa-graduation-cap " data-toggle="tooltip" title="Spring Web Certification." /></a>
+                                                        <a href="https://d1fto35gcfffzn.cloudfront.net/training/exam-briefs/Pivotal_ExamBrief_SpringWebApplicationDeveloper4.2.pdf"  data-toggle="tooltip" title="Exam Description." target="_blank"><span class="fa fa-link"></span></a><br/>
+                                                        Juin 2014 : Spring Professional 3.2
+                                                        <a href="#" data-toggle="modal" data-target="#springcore"><span class="fa fa-certificate" data-toggle="tooltip" title="Spring Professional Exam Results." /></a>&nbsp
+                                                        <a href="#" data-toggle="modal" data-target="#springcorecertif"><span class="fa fa-graduation-cap" data-toggle="tooltip" title="Spring Professional Certification." /></a>
+                                                        <a href="https://d1fto35gcfffzn.cloudfront.net/training/exam-briefs/Pivotal_ExamBrief_SpringProfessional.pdf"  data-toggle="tooltip" title="Exam Description." target="_blank"><span class="fa fa-link"></span></a><br/>
                                                         <i>(note: J'ai toutes les certification Spring officielles (de Pivotal))</i></p>
                                                     <h6><span class="fa fa-book"></span> CCBA</h6>
                                                     <p>Mars 2012 : Business Analyst Certifié : CCBA
@@ -1241,12 +1246,18 @@
                                                     class="fa fa-calendar color"></i> 2013 - 2017</span></h5>
                                                     <h6><span class="fa fa-book"></span> <a href="http://www.objis.com" target="_blank">Objis</a></h6></li>
                                                 </a></h6>
-                                                <p>Octobre 2017 : Intégration continue avec Git, Maven, Jenkins, Nexus, Sonar <a href="http://www.objis.com/formation-java/formation-integration-continue-methodes-agiles.html"  target="_blank">
+                                                <p>Octobre 2017 : Intégration continue avec Git, Maven, Jenkins, Nexus, Sonar
+                                                    <a href="http://www.objis.com/formation-java/formation-integration-continue-methodes-agiles.html"  data-toggle="tooltip" title="Training Description." target="_blank">
                                                     <span class="fa fa-link"></span>
                                                 </a><br/>
                                                 <h6><span class="fa fa-book"></span> <a href="http://www.zenika.com/" target="_blank">Zenika</a></h6></li>
                                         </a></h6>
-                                                    <p>Mars 2017 : Spring MicroServices <br/> Mars 2017 : Angular 2 <br/> 2015 : Spring Enterprise 4.0 <br/> 2014 : Spring Web Application developer (Spring MVC) <br/> 2013 : Spring Core 3.2 </p>
+                                                <p>March 2017 : Spring MicroServices <a href="https://training.zenika.com/formations/microservices-developpeurs"  data-toggle="tooltip" title="Training Description." target="_blank"><span class="fa fa-link"></span></a><br/>
+                                                    March 2017 : Angular 2 <a href="https://training.zenika.com/formations/angular2"  data-toggle="tooltip" title="Training Description." target="_blank"><span class="fa fa-link"></span></a><br/>
+                                                    2015 : Spring Enterprise 4.0 <a href="https://d1fto35gcfffzn.cloudfront.net/training/exam-briefs/Pivotal_ExamBrief_EnterpriseIntegrationSpecialist.pdf"  data-toggle="tooltip" title="Training Description." target="_blank"><span class="fa fa-link"></span></a><br/>
+                                                    2014 : Spring Web Application developer 3.2 (Spring MVC) <a href="https://d1fto35gcfffzn.cloudfront.net/training/exam-briefs/Pivotal_ExamBrief_SpringWebApplicationDeveloper4.2.pdf"  data-toggle="tooltip" title="Training Description." target="_blank"><span class="fa fa-link"></span></a><br/>
+                                                    2013 : Spring Professional 3.2 <a href="https://d1fto35gcfffzn.cloudfront.net/training/exam-briefs/Pivotal_ExamBrief_SpringProfessional.pdf"  data-toggle="tooltip" title="Training Description." target="_blank"><span class="fa fa-link"></span></a>
+                                                </p>
                                                 </li>
                                                 <li>
                                                     <h5>Diplômes <span class="duration"><i
@@ -1334,10 +1345,10 @@
                                                     <div class="skill-bar-percent">70%</div>
                                                 </div>
                                                 <!-- /.skillbar -->
-                                                <div class="skillbar clearfix" data-percent="70%">
-                                                    <div class="skillbar-title"><span>Bootstrap</span></div>
+                                                <div class="skillbar clearfix" data-percent="60%">
+                                                    <div class="skillbar-title"><span>Node.js</span></div>
                                                     <div class="skillbar-bar"></div>
-                                                    <div class="skill-bar-percent">70%</div>
+                                                    <div class="skill-bar-percent">60%</div>
                                                 </div>
                                                 <!-- /.skillbar -->
                                                 <!-- .skillbar -->
@@ -1393,6 +1404,13 @@
                                                 </div>
                                                 <!-- /.skillbar -->
                                                 <!-- .skillbar -->
+                                                <div class="skillbar clearfix " data-percent="60%">
+                                                    <div class="skillbar-title"><span>RTC</span></div>
+                                                    <div class="skillbar-bar"></div>
+                                                    <div class="skill-bar-percent">60%</div>
+                                                </div>
+                                                <!-- /.skillbar -->
+                                                <!-- .skillbar -->
                                                 <div class="skillbar clearfix " data-percent="65%">
                                                     <div class="skillbar-title"><span>Nexus</span></div>
                                                     <div class="skillbar-bar"></div>
@@ -1403,7 +1421,7 @@
 
                                             <!-- .title_content -->
                                             <div class="title-section">
-                                                <h2 class="section_title">Développement</h2>
+                                                <h2 class="section_title">Autre langage</h2>
                                                 <div class="sep2"></div>
                                             </div>
                                             <!-- /.title_content -->
@@ -1414,14 +1432,6 @@
                                                     <div class="skillbar-title"><span>SQL</span></div>
                                                     <div class="skillbar-bar"></div>
                                                     <div class="skill-bar-percent">95%</div>
-                                                </div>
-                                                <!-- /.skillbar -->
-
-                                                <!-- .skillbar -->
-                                                <div class="skillbar clearfix " data-percent="80%">
-                                                    <div class="skillbar-title"><span>Applications Java Standard</span></div>
-                                                    <div class="skillbar-bar"></div>
-                                                    <div class="skill-bar-percent">80%</div>
                                                 </div>
                                                 <!-- /.skillbar -->
                                             </div>
@@ -3167,7 +3177,7 @@
                         <div class="modal-content">
                             <div class="modal-header">
                                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                <h4 class="modal-title">Résultat de la certification Spring Core</h4>
+                                <h4 class="modal-title">Résultat de la certification Spring Professional</h4>
                             </div>
                             <div class="modal-body">
                                 <p><img src="images/Spring-Core-Exam.jpg"></p>
@@ -3186,7 +3196,7 @@
                         <div class="modal-content">
                             <div class="modal-header">
                                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                <h4 class="modal-title">Certification Spring Core</h4>
+                                <h4 class="modal-title">Certification Spring Professional</h4>
                             </div>
                             <div class="modal-body">
                                 <p><img src="images/Spring-Core-Certfication.jpg"></p>

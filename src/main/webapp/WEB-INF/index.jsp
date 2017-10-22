@@ -35,7 +35,7 @@
             <h1 class="fwhite main-title">Patrick DESCHAMPS</h1>
             <p class="fwhite main-title">IT Consultant, Java Developer
             </p>
-            <a class="btn btn-primary btn-lg" type="button" href="cven">Enter</a>
+            <a class="btn btn-info btn-lg" type="button" href="cven">Enter</a>
         </div>
     </div>
 
