@@ -337,18 +337,17 @@
                                             <div class="sep2"></div>
                                         </div>
 
-
                                         <div class="col-md-6 para_serv">
                                             <img src="images/services/carte-de-visite-patrick-deschamps.jpg" class="img-responsive" alt="">
                                         </div>
 
-                                        <div class="col-md-6">
-                                            <p>My main activity is in the IT software development area.</p>
+                                        <p class="col-md-6">
+                                            <p>My main activity is the software development.</p>
                                             <p><b>As Java developer,</b></br>
-                                                I implement Web Application, Standard Application or Enterprise Application with <b>Java and the Framework Spring</b>
+                                                I <b>design</b> and <b>implement</b> Web Applications, Standard Application or Enterprise Applications with <b>Java and the Framework Spring</b>
                                                 ( I am Java 8 Certified and I have all Spring Certifications ).<br>
-                                                For the client side of Web Application, I develop with HTML5,
-                                                CSS3, BootStrap, <b>Typescript/JavaScript</b> and <b>Angular2</b>.</p>
+                                                For the client side of Web Applications, I develop with HTML5,
+                                                CSS3, BootStrap, <b>Typescript/JavaScript</b> and <b>Angular 2</b>.</p>
                                             <!-- <p>Due to my experiencies and certifications, in particular Spring, I define the <b>architecture</b> of all type of applications ( internal design ) : Web Application, Standard Application,
                                             Enterprise Application ( following EIP patterm ).</p> -->
                                             <p>I'm open to act as an <b>independent, free lancer, IT consultant</b> or as an<b> employee</b>.</p>
@@ -356,10 +355,10 @@
                                             <i>Don't hesitate to see my specifics skills ('Resume' button on the left), then 'Enter' as anonymous if you don't want to give your identity. </i>
                                             <!-- <a href="#values" class="btn btn_service_intro">My Values</a> -->
 
-                                        </div>
 
                                     </div>
                                     <!-- End .service_intro -->
+
 
                                     <!-- service-1 -->
 
@@ -1128,13 +1127,14 @@
                                             <!-- .attributes -->
                                             <ul class="attributes">
                                                 <li class="first">
-                                                    <h5>Full-Stack Developer <span class="duration"><i
+                                                    <h5>Java Developer <span class="duration"><i
                                                     class="fa fa-calendar color"></i> 2017</span></h5>
                                                     <h6><span class="fa fa-briefcase"></span> IT Consultant</h6>
-                                                    <p><b>Back-End :</b> </br>Java 8 programmer <b>(Certified)</b>.</br>
+                                                    <p><b>Design and development of Standard Java Applications, Web Applications and Enterprise Applications.</b></p>
+                                                    <p><b>Back-End :</b> </br>Java 8 <b>(Certified)</b></br>
                                                         Spring specialist : Spring MVC, Spring Data REST, Spring Security, Sprint Boot, Spring MicroServices, Spring Enterprise.
-                                                        <b>(I have all Spring Certifications).</b> </br>
-                                                        Persitence : JDBC, Hibernate, JPA, </br>
+                                                        <b>(I have all Spring Certifications)</b> </br>
+                                                        Persitence : JDBC, Hibernate, JPA </br>
                                                         Messaging : JMS </br>
                                                         <b>Front-End :</b></br>
                                                         Javascript, Angular 2, jQuery, Node.js</br>
@@ -1254,7 +1254,8 @@
                                                     <p>August 2016 : Spring Enterprise 4.0
                                                         <a href="#" data-toggle="modal" data-target="#springenterprise"><span class="fa fa-certificate" data-toggle="tooltip" title="Spring Enterpise Exam Results." /></a>
                                                         <a href="#" data-toggle="modal" data-target="#springenterprisecertif"><span class="fa fa-graduation-cap" data-toggle="tooltip" title="Spring Enterprise Certification." /></a>
-                                                        <a href="https://d1fto35gcfffzn.cloudfront.net/training/exam-briefs/Pivotal_ExamBrief_EnterpriseIntegrationSpecialist.pdf"  data-toggle="tooltip" title="Exam Description." target="_blank"><span class="fa fa-link"></span></a><br/>
+                                                        <a href="https://d1fto35gcfffzn.cloudfront.net/training/exam-briefs/Pivotal_ExamBrief_EnterpriseIntegrationSpecialist.pdf"  data-toggle="tooltip" title="Exam Description." target="_blank"><span class="fa fa-link"></span></a>
+                                                        <a href="https://bcert.me/bc/html/show-badge.html?b=ciisqjq" target="_blank"><span class="fa fa-id-badge" data-toggle="tooltip" title="Spring Enterprise Badge." /></a></br>
                                                         March 2015 : Spring Web Application developer 3.2 (Spring MVC)
                                                         <a href="#" data-toggle="modal" data-target="#springweb"><span class="fa fa-certificate" data-toggle="tooltip" title="Spring Web Exam Results." /></a>&nbsp
                                                         <a href="#" data-toggle="modal" data-target="#springwebcertif"><span class="fa fa-graduation-cap " data-toggle="tooltip" title="Spring Web Certification." /></a>

@@ -342,8 +342,8 @@
                                         </div>
 
                                         <div class="col-md-6">
-                                            <p>Ma principale activité est le développement de Software informatique.</p>
-                                            <p><b>En tant que développeur Java,</b><br> j’implemente des Web Applications, Applications Standard ou des Applications d’Entreprise avec <b>Java et le framework Spring</b>
+                                            <p>Ma principale activité est le développement de logiciel informatique.</p>
+                                            <p><b>En tant que développeur Java,</b></br> je fais le <b>design</b> et <b>j'implémente</b> des Web Applications, des Applications Standard ou des Applications d’Entreprise avec <b>Java et le framework Spring</b>
                                             (Je suis cértifié Java 8 et j'ai toutes les certifications Spring ). </br>
                                             Coté Client pour les Applications Web, je développe avec HTML5, CSS 3, BootStrap, <b>TypeScript/JavaScript</b> et <b>Angular 2</b>.</p>
                                             <!--<p>Grace à mon expérience et à mes certifications, notamment Spring, je défini <b>l'architecture</b> de tous type d'applications : Application Web,
@@ -1108,7 +1108,8 @@
                                                     <h5>Java Développeur<span class="duration"><i
                                                     class="fa fa-calendar color"></i> 2017</span></h5>
                                                     <h6><span class="fa fa-briefcase"></span> IT Consultant</h6>
-                                                    <p><b>Back-End :</b> </br>Java 8 programmer <b>(Certified)</b>.</br>
+                                                    <p><b>'Design' et développement d'Applications Java Standard, d'Applications Web et d'Applications d'Entreprise.</b></p>
+                                                    <p><b>Back-End :</b> </br>Java 8 <b>(Certified)</b>.</br>
                                                         Spécialiste Spring : Spring MVC, Spring Data REST, Spring Security, Sprint Boot, Spring MicroServices, Spring Enterprise.
                                                         <b>(J'ai toutes les certifications Spring)</b> </br>
                                                         Persistance : JDBC, Hibernate, JPA </br>
@@ -1226,7 +1227,8 @@
                                                     <p>Aôut 2016 : Spring Enterprise 4.0
                                                         <a href="#" data-toggle="modal" data-target="#springenterprise"><span class="fa fa-certificate" data-toggle="tooltip" title="Spring Enterpise Exam Results." /></a>
                                                         <a href="#" data-toggle="modal" data-target="#springenterprisecertif"><span class="fa fa-graduation-cap" data-toggle="tooltip" title="Spring Enterprise Certification." /></a>
-                                                        <a href="https://d1fto35gcfffzn.cloudfront.net/training/exam-briefs/Pivotal_ExamBrief_EnterpriseIntegrationSpecialist.pdf"  data-toggle="tooltip" title="Exam Description." target="_blank"><span class="fa fa-link"></span></a><br/>
+                                                        <a href="https://d1fto35gcfffzn.cloudfront.net/training/exam-briefs/Pivotal_ExamBrief_EnterpriseIntegrationSpecialist.pdf"  data-toggle="tooltip" title="Exam Description." target="_blank"><span class="fa fa-link"></span></a>
+                                                        <a href="https://bcert.me/bc/html/show-badge.html?b=ciisqjq" target="_blank"><span class="fa fa-id-badge" data-toggle="tooltip" title="Spring Enterprise Badge." /></a></br>
                                                         Mars 2015 : Spring Web Application developer 3.2 (Spring MVC)
                                                         <a href="#" data-toggle="modal" data-target="#springweb"><span class="fa fa-certificate" data-toggle="tooltip" title="Spring Web Exam Results." /></a>&nbsp
                                                         <a href="#" data-toggle="modal" data-target="#springwebcertif"><span class="fa fa-graduation-cap " data-toggle="tooltip" title="Spring Web Certification." /></a>
