@@ -1765,6 +1765,19 @@
                                 <div class="grid" id="portfoliolist">
 
                                     <div class="view view-first portfolio AD BA WA" data-cat="AD BA WA">
+                                        <img src="images/portfolio/docmanager.png" alt="img01">
+                                        <div class="mask" style="background-color: rgba(183, 181, 168, 0.7);">
+                                            <h4>Doc Manager</h4>
+                                            <p><span class="cat-portfolio">Front-End, Back-End</span></p>
+                                            <div class="portf_detail">
+                                                <a href="#" class="info external open_port_detail" data-id="14">
+                                                    <i class="fa fa-link"></i>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="view view-first portfolio AD BA WA" data-cat="AD BA WA">
                                         <img src="images/portfolio/sports.png" alt="img01">
                                         <div class="mask" style="background-color: rgba(183, 181, 168, 0.7);">
                                             <h4>Sports Events Organizer</h4>
@@ -2839,7 +2852,7 @@
                                     <h2 class="section_title">Project Description</h2>
                                     <div class="sep2"></div>
                                 </div>
-                                <p>Functionnality : Web Application which allow everybody to organize or register to Sportives Events.</p>
+                                <p>Functionality : Web Application which allow everybody to organize or register to Sportives Events.</p>
                                 <p>Allow to Upload all type of files due to MongoDB.</p>
                                 <p>Security managed by KeyCloak and Spring Security.</p>
                                 <a class="btn btn-sm btn-primary" href="https://182-193-28-81.ftth.cust.kwaoo.net:8000/" target="_blank"><i class="fa fa-external-link-square"></i> Open the application</a><br>
@@ -2884,7 +2897,7 @@
                                 <hr>
                                 <div class="portfolio-nav">
                                     <ul>
-                                        <li class="prev-link hide_prev"><a href="#" data-post="12" rel="Prev" title="prev"><i
+                                        <li class="prev-link "><a href="#" data-post="14" rel="Prev" title="prev"><i
                                         class="fa fa-angle-left icon-single"></i></a></li>
                                         <li class="all-items"><a href="#" title="All"><i class="fa fa-th-large icon-single"></i></a>
                                         </li>
@@ -2896,6 +2909,88 @@
                         </div>
                     </div>
                     <!-- End post 13 -->
+
+                    <!-- post 14 -->
+                    <div class="single-portfolio" data-id="14">
+                        <div class="fc-page-title-breadcrumbs">
+
+                            <div class="fc-page-title">
+                                <div class="fc-page-title-wrapper">
+                                    <div class="fc-page-title-captions">
+                                        <h1 class="entry-title">Doc Manager</h1>
+                                    </div>
+                                    <a class="btn_close_port" href="#"><i class="fa fa-close"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row no-marg">
+                            <div class="col-md-12 post-image-wrap">
+                                <img src="images/portfolio/docmanager.JPG" alt="" />
+                            </div>
+                        </div>
+                        <div class="content row no-marg">
+                            <div class="col-md-8 content-split portfolio-split">
+
+                                <div class="title-section" style="margin-left: 0;">
+                                    <h2 class="section_title">Project Description</h2>
+                                    <div class="sep2"></div>
+                                </div>
+                                <p><b>Functionality</b> : This Application allows you to find informations contained in your documents (txt,pdf,docx) very fastely.</p>
+                                <p>This Application is reactive from the DB until the Browser, in particular for the list of paragraphs funcionnality.</p>
+                                <p>It means as soon as some Data are retrieved in the DB, it is displayed in the browser (It doesn't wait for the full result before displaying it).</p>
+                                <a class="btn btn-sm btn-primary" href="http://patdesch.eu-central-1.elasticbeanstalk.com" target="_blank"><i class="fa fa-external-link-square"></i> Open the application</a><br>
+                                <br>
+                                <div>
+                                    <p><b>Front End :</b><br>
+                                        <a class="btn btn-sm btn-default" href="https://github.com/patricou/docmanager_Front-End" target="_blank"><i class="fa fa-github"></i> Front-End Code Source on GitHub</a><br>
+                                        Angular 2 (5.0.1)<br>( ng2-file-upload, ngx-translate, ng4-loading-spinner ...)<br> JavaScript, TypeScript 2.4.2 </br>
+                                        Boostrap v4.0.0-beta.2, HTML 5, CSS 3 </br>
+                                        Tools : Tools : Node 6.10.3, npm, Angular CLI 1.6.0, Visual Studio Code, Git
+                                    </p>
+                                    <p><b>Back End :</b></br>
+                                        <a class="btn btn-sm btn-default" href="https://github.com/patricou/docmanager" target="_blank"><i class="fa fa-github"></i> Back-End Code Source on GitHub</a>
+                                        <br> Java 8 (jdk1.8.0_131)</br>
+                                        Spring 5.0.2.RELEASE, Spring Boot 2.0.0.M7 : Spring WebFux, Reactor Project</br>
+                                        Tools : IntelliJ, Maven, Fit
+                                    </p>
+                                    <p><b>Persistence :</b></br>
+                                        API Rest, <a href="http://patdesch.eu-central-1.elasticbeanstalk.com/swagger-ui.html" target="_blank">Swagger</a></br>
+                                        DB : MongoDB <a href="https://mlab.com/welcome/" target="_blank">MLAB</a> ( for data and files )<br>
+                                    </p>
+                                    <p><b>Security :</b></br>
+                                       Nothing
+                                    </p>
+                                    <br>
+                                    <br>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 sidebar portfolio-sidebar">
+
+                                <div class="title-section" style="margin-left: 0;">
+                                    <h2 class="section_title">Project Details</h2>
+                                    <div class="sep2"></div>
+                                </div>
+                                <div><strong>Date : </strong><span class="project-terms">October 2017 - December 2017</span></div>
+                                <div><strong>Client : </strong><span class="project-terms">Everybody</span></div>
+                                <div><strong>Category : </strong><a href="#">Business Analyst, Product Manager, Developer</a>
+                                </div>
+                                <div><strong>Skills Used : </strong><a href="#">Developper ( Java/Sprint - TypeScript/Angular 2 )</a></div>
+                                <hr>
+                                <div class="portfolio-nav">
+                                    <ul>
+                                        <li class="prev-link hide_prev"><a href="#" data-post="8" rel="Prev" title="prev"><i
+                                                class="fa fa-angle-left icon-single"></i></a></li>
+                                        <li class="all-items"><a href="#" title="All"><i class="fa fa-th-large icon-single"></i></a>
+                                        </li>
+                                        <li class="next-link"><a href="#" data-post="13" rel="Next" title="next"><i
+                                                class="fa fa-angle-right icon-single"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End post 14 -->
 
                 </div>
                 <!-- End #portfolio_single -->
