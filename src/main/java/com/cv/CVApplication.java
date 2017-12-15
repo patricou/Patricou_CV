@@ -14,42 +14,19 @@
  * limitations under the License.
  */
 package com.cv;
-
-import java.security.Principal;
-
-import javax.servlet.Filter;
-
-import org.apache.log4j.Logger;
-import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.boot.autoconfigure.security.oauth2.resource.ResourceServerProperties;
-import org.springframework.boot.autoconfigure.security.oauth2.resource.UserInfoTokenServices;
-import org.springframework.boot.builder.SpringApplicationBuilder;
-import org.springframework.boot.context.properties.ConfigurationProperties;
-import org.springframework.boot.web.servlet.FilterRegistrationBean;
-import org.springframework.boot.web.support.SpringBootServletInitializer;
-import org.springframework.context.annotation.Bean;
-import org.springframework.scheduling.annotation.EnableAsync;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
-import org.springframework.web.servlet.ViewResolver;
-import org.springframework.web.servlet.config.annotation.DefaultServletHandlerConfigurer;
-import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
-import org.springframework.web.servlet.view.InternalResourceViewResolver;
 
-@SpringBootApplication
-public class CVApplication extends SpringBootServletInitializer {
 
-    //this allow ot run in a war
-    @Override
-    protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
-        return application.sources(CVApplication.class);
-    }
+@SpringBootApplication(scanBasePackages={"com.cv"})
+public class CVApplication  implements CommandLineRunner{
 
     public static void main(String[] args) {
-
         SpringApplication.run(CVApplication.class, args);
+    }
+
+    public void run(String... arg0) throws Exception{
 
     }
 }
