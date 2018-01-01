@@ -405,7 +405,7 @@
                                                         <div class="col-sm-6">
                                                             <p>HTML 5</br>
                                                                 CSS3</br>
-                                                                Javascript</br>
+                                                                JavaScript</br>
                                                                 Angular 2</br>
                                                                 Bootstrap</p>
                                                         </div>
@@ -1157,7 +1157,7 @@
                                                     <h5>Front-End Developer <span class="duration"><i
                                                     class="fa fa-calendar color"></i> 2013 - 2016</span></h5>
                                                     <h6><span class="fa fa-briefcase"></span> <a href="https://www.hsbcprivatebank.com/en" target="_blank">HSBC Private Bank</a></h6>
-                                                    <p>Javascript, HTML5, CSS, Ajax, JSON, jQuery, requireJS</p>
+                                                    <p>JavaScript, HTML5, CSS, Ajax, JSON, jQuery, requireJS</p>
                                                 </li>
                                                 <li>
                                                     <h5>Senior Technical Analyst<span class="duration"><i
@@ -1356,7 +1356,7 @@
                                             <div class="skills">
                                                 <!-- .skillbar -->
                                                 <div class="skillbar clearfix" data-percent="70%">
-                                                    <div class="skillbar-title"><span>Javascript</span></div>
+                                                    <div class="skillbar-title"><span>JavaScript</span></div>
                                                     <div class="skillbar-bar"></div>
                                                     <div class="skill-bar-percent">70%</div>
                                                 </div>
@@ -1373,13 +1373,6 @@
                                                     <div class="skillbar-bar"></div>
                                                     <div class="skill-bar-percent">70%</div>
                                                 </div>
-                                                <!-- /.skillbar -->
-                                                <div class="skillbar clearfix" data-percent="60%">
-                                                    <div class="skillbar-title"><span>Node.js</span></div>
-                                                    <div class="skillbar-bar"></div>
-                                                    <div class="skill-bar-percent">60%</div>
-                                                </div>
-                                                <!-- /.skillbar -->
                                                 <!-- .skillbar -->
                                                 <div class="skillbar clearfix" data-percent="75%">
                                                     <div class="skillbar-title"><span>HTML 5</span></div>
@@ -2026,7 +2019,7 @@
                                 <div><strong>Date : </strong><span class="project-terms">Sptember, 2014</span></div>
                                 <div><strong>Client : </strong><span class="project-terms">HSBC Account Officer</span></div>
                                 <div><strong>Category : </strong><a href="#">Development, Business Analysis</a></div>
-                                <div><strong>Skills Used : </strong><a href="#">Java, Spring MVC, Javascript, JQuery</a></div>
+                                <div><strong>Skills Used : </strong><a href="#">Java, Spring MVC, JavaScript, JQuery</a></div>
                                 <!-- <div><strong>Client url : </strong><a href="#">https://www.clienturl.com</a></div> -->
 
 
@@ -2150,7 +2143,7 @@
                                 <p>For the new Data Warehouse, feed with Avaloq Data, I delivered a web application based on a existing framework application, allowing to provide users a front-end interface to generate all required documents for financial
                                     department in csv format.</p>
 
-                                <p>This application is made with Java, Spring, REST, CXF server side, Javascript client side.
+                                <p>This application is made with Java, Spring, REST, CXF server side, JavaScript client side.
                                 </p>
 
                             </div>
@@ -2165,7 +2158,7 @@
                                 <div><strong>Date : </strong><span class="project-terms">31 July, 2016</span></div>
                                 <div><strong>Client : </strong><span class="project-terms">Financial team</span></div>
                                 <div><strong>Category : </strong><a href="#">Development, Web Application</a></div>
-                                <div><strong>Skills Used : </strong><a href="#">Java, Spring, Javascript, Maven</a></div>
+                                <div><strong>Skills Used : </strong><a href="#">Java, Spring, JavaScript, Maven</a></div>
 
                                 <hr>
 
@@ -2235,7 +2228,7 @@
                                 <div><strong>Date : </strong><span class="project-terms">July 31, 2016</span></div>
                                 <div><strong>Client : </strong>Potentialy, All HSBC Private Bank users</div>
                                 <div><strong>Category : </strong>Development, Web Application</div>
-                                <div><strong>Skills Used : </strong>Java, Spring, Javascript, cometd, maven.</div>
+                                <div><strong>Skills Used : </strong>Java, Spring, JavaScript, cometd, maven.</div>
 
                                 <hr>
 

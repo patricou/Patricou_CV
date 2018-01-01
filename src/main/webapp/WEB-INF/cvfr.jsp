@@ -14,7 +14,7 @@
         <meta charset="UTF-8" />
         <meta name="generator" content="Patrik DESCHAMPS">
         <META NAME="description" CONTENT="Patrick Deschamps, professional web site, Java, Spring Specialist, Geneva, Geneve, JEE. ">
-        <META NAME="keywords" CONTENT="Java, spring, geneve, geneva, genève, developer, developpeur, web, application, applications, programing, programming, specialist,angularjs, spring boot, mvc, rest, javascript, angularjs, jquery, bootstrap">
+        <META NAME="keywords" CONTENT="Java, spring, geneve, geneva, genève, developer, developpeur, web, application, applications, programing, programming, specialist,angularjs, spring boot, mvc, rest, JavaScript, angularjs, jquery, bootstrap">
         <META NAME="robots" CONTENT="all">
         <META NAME="Content-language" CONTENT="english">
         <META NAME="Author" CONTENT="Patrick DESCHAMPS">
@@ -1346,13 +1346,6 @@
                                                     <div class="skillbar-bar"></div>
                                                     <div class="skill-bar-percent">70%</div>
                                                 </div>
-                                                <!-- /.skillbar -->
-                                                <div class="skillbar clearfix" data-percent="60%">
-                                                    <div class="skillbar-title"><span>Node.js</span></div>
-                                                    <div class="skillbar-bar"></div>
-                                                    <div class="skill-bar-percent">60%</div>
-                                                </div>
-                                                <!-- /.skillbar -->
                                                 <!-- .skillbar -->
                                                 <div class="skillbar clearfix" data-percent="75%">
                                                     <div class="skillbar-title"><span>HTML 5</span></div>
