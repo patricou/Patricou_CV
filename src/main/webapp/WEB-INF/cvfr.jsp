@@ -1115,7 +1115,7 @@
                                                         Persistance : JDBC, Hibernate, JPA </br>
                                                         Messaging : JMS </br>
                                                         <b>Front-End :</b></br>
-                                                        JavaScript, Angular 2, jQuery, Node.js</br>
+                                                        TypeScript/JavaScript, Angular 2</br>
                                                         Bootstrap 3 & 4, HTML 5, CSS 3</BR>
                                                         <b>Intégration Continue :</b></br>
                                                         Git, Maven, Jenkins, RTC, Nexus, Sonar</br>
