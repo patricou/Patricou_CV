@@ -350,12 +350,11 @@
                                                 CSS3, BootStrap, <b>Typescript/JavaScript</b> and <b>Angular 2</b>.</p>
                                             <!-- <p>Due to my experiencies and certifications, in particular Spring, I define the <b>architecture</b> of all type of applications ( internal design ) : Web Application, Standard Application,
                                             Enterprise Application ( following EIP patterm ).</p> -->
-                                            <p>I'm open to act as an <b>independent, free lancer, IT consultant</b> or as an<b> employee</b>.</p>
+                                            <!-- <p>I'm open to act as an <b>independent, free lancer, IT consultant</b> or as an<b> employee</b>.</p>
                                             <p>My precedent professional branch was in Private Banking area, but I'm ready to work in all type of Enterprise.</p>
-                                            <i>Don't hesitate to see my specifics skills ('Resume' button on the left), then 'Enter' as anonymous if you don't want to give your identity. </i>
-                                            <!-- <a href="#values" class="btn btn_service_intro">My Values</a> -->
-
-
+                                            <a href="#values" class="btn btn_service_intro">My Values</a> -->
+                                        <p>My current activity is in the IT Application Support Banking area for the first US financial institutions : <b><a href="https://www.jpmorgan.com/country/CH/en/jpmorgan" target="_blank">JPMorgan (Suisse)</a></b></p>
+                                        <i>Don't hesitate to see my specifics skills ('Resume' button on the left), then 'Enter' as anonymous if you don't want to give your identity. </i>
                                     </div>
                                     <!-- End .service_intro -->
 
@@ -1129,7 +1128,7 @@
                                                 <li class="first">
                                                     <h5>Application Support Officer <span class="duration"><i
                                                             class="fa fa-calendar color"></i> March 2018</span></h5>
-                                                    <h6><span class="fa fa-briefcase"></span><a href="https://www.jpmorgan.com/country/CH/en/jpmorgan" target="_blank"> J.P. Morgan (Suisse)</a></h6>
+                                                    <h6><span class="fa fa-briefcase"></span><a href="https://www.jpmorgan.com/country/CH/en/jpmorgan" target="_blank"> JPMorgan (Suisse)</a></h6>
                                                     <p> Work on a team to categorize, prioritize and resolve software application issues dealing with all levels of the Asset Management technology organization.</br>
                                                         Hands-on support for products and applications at agreed service levels.</br>
                                                         Establish processes that help incident prevention; create/develop tools to improve monitoring and automate support tasks.</br>

@@ -348,12 +348,11 @@
                                             Coté Client pour les Applications Web, je développe avec HTML5, CSS 3, BootStrap, <b>TypeScript/JavaScript</b> et <b>Angular 2</b>.</p>
                                             <!--<p>Grace à mon expérience et à mes certifications, notamment Spring, je défini <b>l'architecture</b> de tous type d'applications : Application Web,
                                             Application Java Standard, Application d'entreprise (EIP).</p>-->
-                                            <p>Je suis prêt à m'investir en tant que <b>indépendant, free lance, IT consultant</b> ou<b> employé</b>.</p>
-                                            <p>Mon précédent domaine d'activité était dans la banque privée, mais je peux agir dans tous types d'entreprise.</p>
-                                            <i>N'hésitez pas à aller voir mon CV en ligne (bouton 'Curriculum' à gauche), puis 'Entrez' en tant qu'Anonyme, si vous ne voulez pas donner votre identité.</i>
-
+                                            <!--<p>Je suis prêt à m'investir en tant que <b>indépendant, free lance, IT consultant</b> ou<b> employé</b>.</p>
+                                            <p>Mon précédent domaine d'activité était dans la banque privée, mais je peux agir dans tous types d'entreprise.</p>                                         ->
                                             <!-- <a href="#values" class="btn btn_service_intro">My Values</a> -->
-
+                                            <p>Je suis actuellement en poste dans le domaine du support applicatif chez la première Banque Amricaine : <b><a href="https://www.jpmorgan.com/country/CH/en/jpmorgan" target="_blank">JPMorgan (Suisse)</a></b></p>
+                                            <i>N'hésitez pas à aller voir mon CV en ligne (bouton 'Curriculum' à gauche), puis 'Entrez' en tant qu'Anonyme, si vous ne voulez pas donner votre identité.</i>-
                                         </div>
 
                                     </div>
