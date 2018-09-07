@@ -33,8 +33,8 @@
     <div id="bdiv">
         <div id="cdiv">
             <h1 class="fwhite main-title">Patrick DESCHAMPS</h1>
-            <p class="fwhite main-title">IT Consultant, Java Developer
-            </p>
+            <p class="fwhite main-title">IT Specialist ( Development, Support )</p>
+            <!-- <p class="fwhite main-title">IT Consultant, Java Developer</p> -->
             <a class="btn btn-info btn-lg" type="button" href="cven">Enter</a>
         </div>
     </div>

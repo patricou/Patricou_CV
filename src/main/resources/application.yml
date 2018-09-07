@@ -10,6 +10,8 @@ server:
  #  keyAlias: tomcat
 # Mail server parameters
 spring:
+  main:
+    banner-mode: 'off'
   mail:
     host: smtp.gmail.com
     port: 25

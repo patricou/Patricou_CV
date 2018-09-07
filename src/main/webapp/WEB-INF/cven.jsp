@@ -1127,8 +1127,22 @@
                                             <!-- .attributes -->
                                             <ul class="attributes">
                                                 <li class="first">
+                                                    <h5>Application Support Officer <span class="duration"><i
+                                                            class="fa fa-calendar color"></i> March 2018</span></h5>
+                                                    <h6><span class="fa fa-briefcase"></span><a href="https://www.jpmorgan.com/country/CH/en/jpmorgan" target="_blank"> J.P. Morgan (Suisse)</a></h6>
+                                                    <p> Work on a team to categorize, prioritize and resolve software application issues dealing with all levels of the Asset Management technology organization.</br>
+                                                        Hands-on support for products and applications at agreed service levels.</br>
+                                                        Establish processes that help incident prevention; create/develop tools to improve monitoring and automate support tasks.</br>
+                                                        <b>Skills:</b></br>
+                                                        SQL, Java, JavaScript, Bash scripting</br>
+                                                        Exposure to REST Services, Multi-tier Web applications and/or Cloud Services.</br>
+                                                        Perform within a DevOps culture.</br>
+                                                        Banking products.</br>
+                                                    </p>
+                                                </li>
+                                                <li class="first">
                                                     <h5>Java Developer <span class="duration"><i
-                                                    class="fa fa-calendar color"></i> 2017</span></h5>
+                                                    class="fa fa-calendar color"></i> 2017 - Feb 2018</span></h5>
                                                     <h6><span class="fa fa-briefcase"></span> IT Consultant</h6>
                                                     <p><b>Design and development of Standard Java Applications, Web Applications and Enterprise Applications.</b></p>
                                                     <p><b>Back-End :</b> </br>Java 8 <b>(Certified)</b></br>

@@ -1105,6 +1105,18 @@
                                             <!-- .attributes -->
                                             <ul class="attributes">
                                                 <li class="first">
+                                                    <h5>Application Support Officer <span class="duration"><i
+                                                            class="fa fa-calendar color"></i> Mars 2018</span></h5>
+                                                    <h6><span class="fa fa-briefcase"></span><a href="https://www.jpmorgan.com/country/CH/en/jpmorgan" target="_blank"> J.P. Morgan (Suisse)</a></h6>
+                                                    <p> Priorisation et résolution des problèmes des applicatifs à tous les niveaux de l’organisation informatique.</br>
+                                                        Support Applications bancaires</br>
+                                                        Développement des processus et outils pour automatiser/monitorer/améliorer la production</br>
+                                                        <b>Skills :</b></br>
+                                                        Java, SQL, JavaScript, REST, Web Applications/Cloud</br>
+                                                        Milieu DevOps</br>
+                                                    </p>
+                                                </li>
+                                                <li class="first">
                                                     <h5>Java Développeur<span class="duration"><i
                                                     class="fa fa-calendar color"></i> 2017</span></h5>
                                                     <h6><span class="fa fa-briefcase"></span> IT Consultant</h6>
