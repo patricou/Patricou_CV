@@ -2944,7 +2944,7 @@
                                 <p><b>Functionality</b> : This Application allows you to find informations contained in your documents (txt,pdf,docx) very fastely.</p>
                                 <p>This Application is reactive from the DB until the Browser, in particular for the list of paragraphs funcionnality.</p>
                                 <p>It means as soon as some Data are retrieved in the DB, it is displayed in the browser (It doesn't wait for the full result before displaying it).</p>
-                                <a class="btn btn-sm btn-primary" href="http://patdesch.eu-central-1.elasticbeanstalk.com" target="_blank"><i class="fa fa-external-link-square"></i> Open the application</a><br>
+                                <a class="btn btn-sm btn-primary" href="https://182-193-28-81.ftth.cust.kwaoo.net:8005/patdoc" target="_blank"><i class="fa fa-external-link-square"></i> Open the application</a><br>
                                 <br>
                                 <div>
                                     <p><b>Front End :</b><br>

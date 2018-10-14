@@ -2858,7 +2858,7 @@
                                 <p><b>Functionalité</b> : Cette application sert à retrouver les informations contenus dans vos documents (txt,pdf,docx) trés rapidement.</p>
                                 <p>Cette application est reactive depuis la base de donnée jusqu'au browser, en particulier pour la liste des paragraphes.</p>
                                 <p>Cela veut dire que ça marche par Flux : dès qu'une donnée est trouvée dans la DB elle s'affiche dans le browser, et cela n'attend pas le résultat complet avant de l'afficher.</p>
-                                <a class="btn btn-sm btn-primary" href="http://patdesch.eu-central-1.elasticbeanstalk.com" target="_blank"><i class="fa fa-external-link-square"></i> Open the application</a><br>
+                                <a class="btn btn-sm btn-primary" href="https://182-193-28-81.ftth.cust.kwaoo.net:8005/patdoc" target="_blank"><i class="fa fa-external-link-square"></i> Open the application</a><br>
                                 <br>
                                 <div>
                                     <p><b>Front End :</b><br>
