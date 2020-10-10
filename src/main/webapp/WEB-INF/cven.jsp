@@ -255,13 +255,21 @@
                                         <!-- .bg_desc -->
                                         <div class="bg_desc clearfix">
                                             <div class="inner-text">
-                                                <h2>I am Patrick Deschamps</h2>
+                                             <!--   <h2>I am Patrick Deschamps</h2>
                                                 <small class="myjob">IT Consultant, </small>
                                                 <div class="feature-desc">
                                                     <p>I m fully passionate with development, and I work as consultant for short our long missions.</p>
-                                                    <p>My strong are my knowledge in last technologies ( Certified Java and Spring framework ), and reinforced with my long experience as Senior Technical Analyst at HSBC Private Bank, I propose you to share
+                                                    <p>My strong are my knowledge in last technologies ( Certified Java and Spring framework ), and reinforced with my long experience as Senior Technical Analyst at HSBC Private Bank then at JPMorgan, I propose you to share
                                                         them safely to bring the best solutions for your enterprise.</p>
                                                     <p>... and my most exciting thing to do is to create...</p>
+                                                </div>  -->
+                                                <h2>I am Patrick Deschamps</h2>
+                                                <small class="myjob">JPMorgan Associate, </small>
+                                                <div class="feature-desc">
+                                                    <p>I'm  passionate about Development and Support, and I have been working for JPMorgan Chase in Geneva since March 2018.</p>
+                                                    <p>My strongs are in my knowledge in last technologies as well as in the banking area, and reinforced with my long experience as Senior Technical Analyst at HSBC Private Bank then at JPMorgan,
+                                                        I'm able to provide the best service to JPM.</p>
+                                                    <p>... and my most exciting thing to do is to find solutions for every needs...</p>
                                                 </div>
                                                 <div class="signature text-right">
                                                     <div class="inner">
@@ -342,7 +350,9 @@
                                         </div>
 
                                         <p class="col-md-6">
-                                            <p>My main activity is the software development.</p>
+                                            <p><b>My current activity is in the IT Application Support Banking area for the first US financial institutions  <a href="https://www.jpmorgan.com/country/CH/en/jpmorgan" target="_blank">JPMorgan (Suisse)</a></b></p>
+                                            </br>
+                                            <p>I have also a deep knowledge in software development :</p>
                                             <p><b>As Java developer,</b></br>
                                                 I <b>design</b> and <b>implement</b> Web Applications, Standard Application or Enterprise Applications with <b>Java and the Framework Spring</b>
                                                 ( I am Java 8 Certified and I have all Spring Certifications ).<br>
@@ -353,7 +363,6 @@
                                             <!-- <p>I'm open to act as an <b>independent, free lancer, IT consultant</b> or as an<b> employee</b>.</p>
                                             <p>My precedent professional branch was in Private Banking area, but I'm ready to work in all type of Enterprise.</p>
                                             <a href="#values" class="btn btn_service_intro">My Values</a> -->
-                                        <p>My current activity is in the IT Application Support Banking area for the first US financial institutions : <b><a href="https://www.jpmorgan.com/country/CH/en/jpmorgan" target="_blank">JPMorgan (Suisse)</a></b></p>
                                         <i>Don't hesitate to see my specifics skills ('Resume' button on the left), then 'Enter' as anonymous if you don't want to give your identity. </i>
                                     </div>
                                     <!-- End .service_intro -->
@@ -792,7 +801,7 @@
 
 
                                     <!-- pricing table -->
-                                    <div class="row pricing-zoom section_separate">
+                                    <!--<div class="row pricing-zoom section_separate">
 
                                         <div class="title-section">
                                             <h2 class="section_title">Pricing<span> 
@@ -823,7 +832,7 @@
                                                     <a class="btn-u" href="#" ng-click="Interest('Enterprise')" data-toggle="tooltip" title="Send a mail mentioning your interest in this service."><i class="fa fa-envelope-o"></i> I'm interested</a>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div>-->
 
                                         <!--<div class="col-md-4 col-sm-6">
 									<div class="pricing">
@@ -847,7 +856,7 @@
 									</div>
 								</div> -->
 
-                                        <div class="col-sm-6">
+                                 <!--       <div class="col-sm-6">
                                             <div class="pricing">
                                                 <div class="pricing-head">
                                                     <h3>For individual, commerce, small business<span>Ideal for Personal/commercial Web Site </span></h3>
@@ -865,10 +874,10 @@
                                                     <a class="btn-u" href="#" ng-click="Interest('Individual, Commerce, Small Business')" data-toggle="tooltip" title="Send a mail mentioning your interest in this service."><i class="fa fa-envelope-o"></i> I'm interested</a>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> -->
 
 
-                                    </div>
+                                    <!--</div> -->
                                     <!-- End pricing table -->
 
                                 </div>
@@ -1130,13 +1139,15 @@
                                                             class="fa fa-calendar color"></i> March 2018</span></h5>
                                                     <h6><span class="fa fa-briefcase"></span><a href="https://www.jpmorgan.com/country/CH/en/jpmorgan" target="_blank"> JPMorgan (Suisse)</a></h6>
                                                     <p> Work on a team to categorize, prioritize and resolve software application issues dealing with all levels of the Asset Management technology organization.</br>
-                                                        Hands-on support for products and applications at agreed service levels.</br>
-                                                        Establish processes that help incident prevention; create/develop tools to improve monitoring and automate support tasks.</br>
+                                                        Hands-on support for products and applications at agreed service levels (trading, crm, ... )</br>
+                                                        Establish processes that help incident prevention; create/develop tools to improve monitoring ( GENEOS ) and automate support tasks.</br>
+                                                        Support Cloud applications ( Gaia )</br>
+                                                        Develop Spring boot applications to run in the CLoud </br>
                                                         <b>Skills:</b></br>
                                                         SQL, Java, JavaScript, Bash scripting</br>
                                                         Exposure to REST Services, Multi-tier Web applications and/or Cloud Services.</br>
                                                         Perform within a DevOps culture.</br>
-                                                        Banking products.</br>
+                                                        Service now, Confluence</br>
                                                     </p>
                                                 </li>
                                                 <li class="first">

@@ -254,13 +254,21 @@
                                         <!-- .bg_desc -->
                                         <div class="bg_desc clearfix">
                                             <div class="inner-text">
-                                                <h2>Je suis Patrick Deschamps</h2>
+                                                <!--<h2>Je suis Patrick Deschamps</h2>
                                                 <small class="myjob">IT Consultant, </small>
                                                 <div class="feature-desc">
                                                     <p>Passionné d'informatique, j'exerce professionnellement en tant que consultant en développement pour de longues ou courtes missions.</p>
-                                                    <p>Mes forces sont dans mes connaissances des dernières technologies de développement, et renforcé par ma longue expérience en tant que 'Senior Technical Analyst' chez HSBC Private Bank, je vous propose
+                                                    <p>Mes forces sont dans mes connaissances des dernières technologies de développement, et renforcé par ma longue expérience en tant que 'Senior Technical Analyst' chez HSBC Private Bank puis chez JPMorgan, je vous propose
                                                         de les partager avec vous, afin d'apporter les meilleures solutions pour votre entreprise.</p>
                                                     <p>... et mon occupation préférée est de créer...</p>
+                                                </div>-->
+                                                <h2>Je suis Patrick Deschamps</h2>
+                                                <small class="myjob">JPMorgan Associate, </small>
+                                                <div class="feature-desc">
+                                                    <p>Passioné par le Développement et le Support, je travail chez JPM Morgan chase depuis Mars 2018.</p>
+                                                    <p>Mes forces sont dans mes connaissances des dernières technologies ainsi que du monde bancaire, et renforcé par ma longue expérience en tant que 'Senior Technical Analyst' chez HSBC Private Bank puis chez JPMorgan,
+                                                    je suis en position d'offir le meilleur service à JPM.</p>
+                                                    <p>... et mon occupation préférée est de trouver des solutions à tous problemes...</p>
                                                 </div>
                                                 <div class="signature text-right">
                                                     <div class="inner">
@@ -342,16 +350,17 @@
                                         </div>
 
                                         <div class="col-md-6">
-                                            <p>Ma principale activité est le développement de logiciel informatique.</p>
+                                            <p><b>Je suis actuellement en poste dans le domaine du support applicatif chez la première Banque Amricaine <a href="https://www.jpmorgan.com/country/CH/en/jpmorgan" target="_blank">JPMorgan (Suisse)</a></b></p>
+                                            </br>
+                                            <p>J'ai également des connaissances variées dans le développement :</p>
                                             <p><b>En tant que développeur Java,</b></br> je fais le <b>design</b> et <b>j'implémente</b> des Web Applications, des Applications Standard ou des Applications d’Entreprise avec <b>Java et le framework Spring</b>
-                                            (Je suis cértifié Java 8 et j'ai toutes les certifications Spring ). </br>
+                                            (Je suis cértifié Java 1.8 et j'ai toutes les certifications Spring ). </br>
                                             Coté Client pour les Applications Web, je développe avec HTML5, CSS 3, BootStrap, <b>TypeScript/JavaScript</b> et <b>Angular 2</b>.</p>
                                             <!--<p>Grace à mon expérience et à mes certifications, notamment Spring, je défini <b>l'architecture</b> de tous type d'applications : Application Web,
                                             Application Java Standard, Application d'entreprise (EIP).</p>-->
                                             <!--<p>Je suis prêt à m'investir en tant que <b>indépendant, free lance, IT consultant</b> ou<b> employé</b>.</p>
                                             <p>Mon précédent domaine d'activité était dans la banque privée, mais je peux agir dans tous types d'entreprise.</p>                                         ->
                                             <!-- <a href="#values" class="btn btn_service_intro">My Values</a> -->
-                                            <p>Je suis actuellement en poste dans le domaine du support applicatif chez la première Banque Amricaine : <b><a href="https://www.jpmorgan.com/country/CH/en/jpmorgan" target="_blank">JPMorgan (Suisse)</a></b></p>
                                             <i>N'hésitez pas à aller voir mon CV en ligne (bouton 'Curriculum' à gauche), puis 'Entrez' en tant qu'Anonyme, si vous ne voulez pas donner votre identité.</i>-
                                         </div>
 
@@ -779,7 +788,7 @@
                                     </div>
                                     <!-- End service-4 -->
                                     <!-- pricing table -->
-                                    <div class="row pricing-zoom section_separate">
+                                    <!--<div class="row pricing-zoom section_separate">
 
                                         <div class="title-section">
                                             <h2 class="section_title">Prix<span>   &nbsp;&nbsp;&nbsp;
@@ -810,7 +819,7 @@
                                                     <a class="btn-u" href="#" ng-click="Interest('Enterprise')" data-toggle="tooltip" title="Envoyez un mail indiquant votre interêt dans ce service."><i class="fa fa-envelope-o"></i>Je suis intéressé</a>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> -->
 
                                         <!--<div class="col-md-4 col-sm-6">
 									<div class="pricing">
@@ -834,7 +843,7 @@
 									</div>
 								</div> -->
 
-                                        <div class="col-sm-6">
+                                 <!--       <div class="col-sm-6">
                                             <div class="pricing">
                                                 <div class="pricing-head">
                                                     <h3>Pour les personnes, commerces ou petites entreprises<span></h3>
@@ -855,7 +864,7 @@
                                         </div>
 
 
-                                    </div>
+                                    </div>-->
                                     <!-- End pricing table -->
 
                                 </div>
@@ -1108,11 +1117,14 @@
                                                             class="fa fa-calendar color"></i> Mars 2018</span></h5>
                                                     <h6><span class="fa fa-briefcase"></span><a href="https://www.jpmorgan.com/country/CH/en/jpmorgan" target="_blank"> J.P. Morgan (Suisse)</a></h6>
                                                     <p> Priorisation et résolution des problèmes des applicatifs à tous les niveaux de l’organisation informatique.</br>
-                                                        Support Applications bancaires</br>
-                                                        Développement des processus et outils pour automatiser/monitorer/améliorer la production</br>
+                                                        Support Applications bancaires (trading, crm, ...)</br>
+                                                        Développement des processus et outils pour monitorer/améliorer la production ( GENEOS )</br>
+                                                        Support des applications hébergées dans le cloud ( Gaia ) </br>
+                                                        Développement d'applications spring boot pour le Cloud </br>
                                                         <b>Skills :</b></br>
                                                         Java, SQL, JavaScript, REST, Web Applications/Cloud</br>
                                                         Milieu DevOps</br>
+                                                        Service now, Confluence</br>
                                                     </p>
                                                 </li>
                                                 <li class="first">
